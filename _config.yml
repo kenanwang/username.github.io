@@ -31,7 +31,7 @@ twitter_username: kenanwang
 github_username:  kenanwang
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
