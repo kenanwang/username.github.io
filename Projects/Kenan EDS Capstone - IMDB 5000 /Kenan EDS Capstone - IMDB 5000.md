@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: IMDB 5000 Revenue Regression
 permalink: /capstone/
 ---
