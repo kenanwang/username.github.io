@@ -1,5 +1,8 @@
+---
 layout: page
-permalink:/ncaasql/
+title: NCAA Game Situation SQL
+permalink: /ncaasql/
+---
 
 WITH game_clock AS(
 SELECT
