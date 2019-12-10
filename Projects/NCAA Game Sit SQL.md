@@ -3,7 +3,12 @@ layout: page
 title: NCAA Game Situation SQL
 permalink: /ncaasql/
 ---
+This is a SQL query on the public BigQuery Database located here:
+https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball
 
+It allows you to find the number of games since 2013 where the game situation (game differential and time elapsed in the game) defined in the WHERE statement of the main query (found after the common table expressions) has happened. It also tells you how often the home team won in those games.
+
+```
 WITH game_clock AS(
 SELECT
   games.game_id,
@@ -17,7 +22,7 @@ SELECT
   SUM(CASE WHEN team_id = h_id THEN points_scored END)
     OVER(
       PARTITION BY game_id
-      ORDER BY timestamp 
+      ORDER BY timestamp
       ) AS home_points,
   SUM(CASE WHEN team_id = a_id THEN points_scored END)
     OVER(
@@ -37,7 +42,7 @@ SELECT
   home_points - away_points AS home_pts_diff,
   home_win
 FROM game_clock)
-SELECT 
+SELECT
   COUNT(game_id) AS num_games,
   ROUND(AVG(home_win)*100,1) AS home_win_perc
 FROM game_sit
@@ -47,3 +52,4 @@ WHERE
   previous_time_sec <= 1200 AND
   current_time_sec >= 1200 AND
   home_pts_diff = -10
+```
