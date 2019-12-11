@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: NCAA Game Situation SQL
-permalink: /ncaasql/
+categories: [data]
+tags: [sql, bigquery]
 ---
 This is a SQL query on the public BigQuery Database located here:
 https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball
@@ -33,27 +34,38 @@ SELECT
     ELSE 0 END AS home_win
 FROM `bigquery-public-data.ncaa_basketball.mbb_pbp_sr` AS pbp
   INNER JOIN `bigquery-public-data.ncaa_basketball.mbb_games_sr` AS games
-  USING(game_id)
-),
-
+  USING(game_id)),
 game_sit AS(
 SELECT
   game_id,
   previous_time_sec,
   current_time_sec,
-  home_points - away_points AS home_pts_diff,
+  home_points - away_points as home_pts_diff,
   home_win
-FROM game_clock
-)
-
+FROM game_clock)
 SELECT
-  COUNT(game_id) AS num_games,
-  ROUND(AVG(home_win)*100,1) AS home_win_perc
+  home_pts_diff,
+  COUNT(game_id) as num_games,
+  ROUND(AVG(home_win)*100, 2) as home_win_perc
 FROM game_sit
   JOIN `bigquery-public-data.ncaa_basketball.mbb_games_sr` as games
   USING(game_id)
 WHERE
   previous_time_sec <= 1200 AND
   current_time_sec >= 1200 AND
-  home_pts_diff = -10
+  home_pts_diff IN (-20, -10, -5, 0, 5, 10, 20)
+GROUP BY home_pts_diff
+ORDER BY home_pts_diff
 ```
+
+Here were the results of the above query, telling us the win percentages of home teams at the half down by 20, 10, 5, tied up or ahead by 5, 10 or 20.
+
+|home_pts_diff|num_games|home_win_perc|
+|-------------|---------|-------------|
+|-20.0        |143      |2.8          |
+|-10.0        |662      |20.85        |
+|-5.0         |1059     |36.64        |
+|0.0          |1521     |60.22        |
+|5.0          |1653     |80.94        |
+|10.0         |1397     |91.12        |
+|20.0         |530      |100.0        |
