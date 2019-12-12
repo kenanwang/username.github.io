@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Kenan Wang’s Resume and Portfolio | Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups.</title>
+<title>Kenan’s ML Portfolio | Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups.</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Kenan Wang’s Resume and Portfolio" />
+<meta property="og:title" content="Kenan’s ML Portfolio" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups." />
 <meta property="og:description" content="Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups." />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Kenan Wang’s Resume and Portfolio" />
+<meta property="og:site_name" content="Kenan’s ML Portfolio" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/","name":"Kenan Wang’s Resume and Portfolio","description":"Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups.","headline":"Kenan Wang’s Resume and Portfolio","@type":"WebSite","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/","headline":"Kenan’s ML Portfolio","name":"Kenan’s ML Portfolio","description":"Berkeley Math and Physics grad educated in Data Science. Former PM for Wikipedia Mobile (25% traffic). Three sold startups.","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kenan Wang's Resume and Portfolio" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kenan's ML Portfolio" /></head>
 <body><header class="site-header" role="banner">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Kenan Wang&#39;s Resume and Portfolio</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Kenan&#39;s ML Portfolio</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -28,7 +28,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About Me</a></div>
+        <div class="trigger"><a class="page-link" href="/organized_ml_portfolio/">Organized ML Portfolio</a><a class="page-link" href="/resume/">Resume</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -37,10 +37,35 @@
 <h2 class="post-list-heading">Posts</h2>
     <ul class="post-list"><li><span class="post-meta">Dec 9, 2019</span>
         <h3>
-          <a class="post-link" href="/data/2019/12/09/NCAA-bigquery.html">
-            NCAA Game Situation SQL
+          <a class="post-link" href="/sql/2019/12/09/NCAA-bigquery.html">
+            NCAA Game Situation
           </a>
-        </h3></li></ul>
+        </h3><p>This is a SQL query on the public BigQuery Database located <a href="https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball">here</a>. It allows you to find the number of games since 2013 where the game situation (game differential and time elapsed in the game) defined in the WHERE statement of the main query (found after the common table expressions) has happened. It also tells you how often the home team won in those games.</p>
+
+</li><li><span class="post-meta">Nov 25, 2019</span>
+        <h3>
+          <a class="post-link" href="/end%20to%20end%20projects/implementing%20algorithms/2019/11/25/enron-anomaly-detection.html">
+            Enron Anomaly Detection using Neural Network Analysis
+          </a>
+        </h3><p>In this project I am replicating analysis from a research paper found below. This project maps a social network as a neural network, precisely a Hopfield memory network. We feed the Hopfield memory network features that represent anomalously high amounts of activity. We use a Hebbian learning rule to train our memory network. The Hebbian rule “remembers” nodes that fire together.  Thus, our memory network algorithm takes the input data of individuals who are displaying elevated activity, and extracts an even more precise signal of specific subnetworks of elevated activity occurring together.</p>
+
+</li><li><span class="post-meta">Oct 16, 2019</span>
+        <h3>
+          <a class="post-link" href="/end%20to%20end%20projects/2019/10/16/twitter-terms-analysis-centrality-and-sentiment.html">
+            Twitter Terms Analysis of Centrality and Sentiment
+          </a>
+        </h3><p>My goal will be be to use the Twitter API to import tweets related to a user or a hashtag. I will use Bag of Words (BOW) to create features on this data. Because more information is contained in terms than individual words I’ll perform this analysis on bigrams not individual words. From these BOW features, also called terms, I will perform two analyses:<br />
+1) I will find the most important terms. The way I will do this is by modeling the terms in a network with the terms as networks and co-occurence in tweets as edges. I’ll then look for the terms with the highest centrality.<br />
+2) I will perform Sentiment Analysis on the terms.</p>
+
+</li><li><span class="post-meta">Sep 19, 2019</span>
+        <h3>
+          <a class="post-link" href="/end%20to%20end%20projects/2019/09/19/IMDB-5000-revenue-regression.html">
+            IMDB 5000 Revenue Regression
+          </a>
+        </h3><p>This project applies Machine Learning to an IMDB database of 5000 movies. The goal is to predict the revenue of a movie at a level that is helpful to a studio. To define a metric for this project I will estimate profit margin for the movies. This will be done assuming that the total budget for a movie can be estimated by doubling the production budget of that movie<sup>1</sup>. I will find the standard deviation of profit margin for the movies in this dataset and attempt to predict revenue to within 1/4 of that standard deviation. The reason for this win condition is that I believe it would be helpful for movie executives to prevent the worst loses in their portfolio and also avoid underbudgeting strong performers.</p>
+
+</li></ul>
 
     <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
 
@@ -50,15 +75,15 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Kenan Wang&#39;s Resume and Portfolio</h2>
+    <h2 class="footer-heading">Kenan&#39;s ML Portfolio</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">Kenan Wang&#39;s Resume and Portfolio</li><li><a class="u-email" href="mailto:kenanwang1@gmail.com">kenanwang1@gmail.com</a></li></ul>
+          <li class="p-name">Kenan&#39;s ML Portfolio</li><li><a class="u-email" href="mailto:kenanwang1@gmail.com">kenanwang1@gmail.com</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/kenanwang"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">kenanwang</span></a></li><li><a href="https://www.twitter.com/kenanwang"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">kenanwang</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/kenanwang"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">kenanwang</span></a></li><li><a href="https://www.linkedin.com/in/kenanwang"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">kenanwang</span></a></li><li><a href="https://www.twitter.com/kenanwang"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">kenanwang</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">
