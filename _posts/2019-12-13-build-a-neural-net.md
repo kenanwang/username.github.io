@@ -122,4 +122,4 @@ plt.plot(errors)
 
 
 
-![png](output_9_1.png)
+![png](/assets/implementneuralnet/output_9_1.png)

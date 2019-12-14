@@ -584,7 +584,7 @@ dec_array = gen_activity_graph(G_mapped, Gc_dec)
 ```
 
 
-![png](output_50_0.png)
+![png](/assets/enron/output_50_0.png)
 
 
 The anamolous cluster of people for December 1999 indeed sent notably more emails in December 1999 (highlighted in red) than at any other time. At this time Enron was attempting to push through a deal with the help of Merrill-Lynch before the end of their financial quarter. This activity has since been [investigated by regulators](https://www.nytimes.com/2002/10/04/business/1999-transaction-with-enron-keeps-dogging-merrill-lynch.html).
@@ -595,7 +595,7 @@ apr_array = gen_activity_graph(G_mapped, Gc_apr)
 ```
 
 
-![png](output_52_0.png)
+![png](/assets/enron/output_52_0.png)
 
 
 The anamolous cluster of people for April 2001 indeed sent notably more emails in April 2001 (highlighted in red) than at any other time. This corresponds with the time period when Enron CEO Jeffrey Skilling was [publically questioned](https://en.wikipedia.org/wiki/Enron_scandal#Timeline_of_downfall) about their earnings.
@@ -606,7 +606,7 @@ may_array = gen_activity_graph(G_mapped, Gc_may)
 ```
 
 
-![png](output_54_0.png)
+![png](/assets/enron/output_54_0.png)
 
 
 The anamolous cluster of people for May 2001 indeed sent notably more emails in May 2001 (highlighted in red) than at any other time. This corresponds with "formal notice of closure and termination of Enron’s single largest foreign investment, the Dabhol
@@ -618,7 +618,7 @@ aug_array = gen_activity_graph(G_mapped, Gc_aug)
 ```
 
 
-![png](output_56_0.png)
+![png](/assets/enron/output_56_0.png)
 
 
 My August cluster does not seem to display anamolous activity in the time series quantitative data as clearly as the data produced by Miz, Ricaud, Benzi, Vandergheynst (2019) I seem to be producing a similar signal for august but I have a lot of additional noise in other time periods that they do not. I'm not quite able to diagnose why this is the case but my algorithm is perfectly capable of finiding the signal from the noise in the other months. What follows is an analysis of the difference in the nodes between my data and the official data for the month of August.  

@@ -1505,7 +1505,7 @@ plt.plot([t for t in time], prob)
 
 
 
-![png](output_19_1.png)
+![png](/assets/nba/output_19_1.png)
 
 
 Above graph of win percentages is not very smooth, would be interesting to consider ways to smooth this graph out. Applying other ML algorithms to this could help with this since ML algorithms assume a smooth underlying probability function.

@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Organized ML Portfolio
-permalink: /organized_ml_portfolio/
+title: Organized Portfolio
+permalink: /organized_portfolio/
 ---
-<h1>Project type</h1>
+<p>There are four types of projects in my portfolio:</p>
+<ol>
+    <li>End to End projects - demonstrating the whole data science workflow including acquiring data and engineering that data to be used for analysis</li>
+    <li>Implementing Algorithms - best way to intuitively understand how an algorithm works and thus how best to use and tune that algorithm, typically requires some math (linear algebra, probability, statistics, numerical computation)</li>
+    <li>Processed Data - using data that has already been processed to practice a machine learning workflow generally including: explorative analysis, data clean up, feature engineering, algorithm selection, and model tuning</li>
+    <li>SQL - an important skill for data analysis, learning SQL well was a priority for me </li>
+</ol>
 {% for category in site.categories %}
   <h4>{{ category[0] }}</h4>
   <ul>

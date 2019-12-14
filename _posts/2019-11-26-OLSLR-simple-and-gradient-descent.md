@@ -11,7 +11,7 @@ A popular way of generating (or estimating) the linear regression model is the L
 
 It is possible to weight the errors when we apply this method. If we do not apply weights to the errors then we have what is called Ordinary Least Square. If we use Ordinary Least Square to calculate error then there is a closed form solution for finding the optimal parameters for a linear model used to predict the training data. Calculating this closed form solution is often itself called the Ordinary Least Squares "method" for solving the Linear Regression problem:
 
-![image.png](attachment:image.png)
+![image.png](https://wikimedia.org/api/rest_v1/media/math/render/svg/46cf247a57b181c36165a0b6ae5ede6bdc1a24a3)
 
 When there are only two dimensions (one independent, one dependent) then the Ordinary Least Squares method reduces to:
 
@@ -143,7 +143,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](/assets/implementols/output_12_0.png)
 
 
 
@@ -257,7 +257,7 @@ plt.plot([x[1] for x in X_train], lr.predict(X_train))
 
 
 
-![png](output_21_1.png)
+![png](/assets/implementols/output_21_1.png)
 
 
 
@@ -320,7 +320,7 @@ plot_cost_v_epochs(lr)
 ```
 
 
-![png](output_26_0.png)
+![png](/assets/implementols/output_26_0.png)
 
 
 
@@ -329,27 +329,27 @@ plot_2d_iterations(lr, X_train, y_train)
 ```
 
 
-![png](output_27_0.png)
+![png](/assets/implementols/output_27_0.png)
 
 
 
-![png](output_27_1.png)
+![png](/assets/implementols/output_27_1.png)
 
 
 
-![png](output_27_2.png)
+![png](/assets/implementols/output_27_2.png)
 
 
 
-![png](output_27_3.png)
+![png](/assets/implementols/output_27_3.png)
 
 
 
-![png](output_27_4.png)
+![png](/assets/implementols/output_27_4.png)
 
 
 
-![png](output_27_5.png)
+![png](/assets/implementols/output_27_5.png)
 
 
 We can see that within 3 iterations we have almost reached the minimum of the cost function.
@@ -395,4 +395,4 @@ plt.plot(toy_x, lr.predict(toy_X))
 
 
 
-![png](output_32_1.png)
+![png](/assets/implementols/output_32_1.png)

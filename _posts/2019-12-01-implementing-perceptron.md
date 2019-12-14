@@ -275,7 +275,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](/assets/implementperceptron/output_24_0.png)
 
 
 Note: 53% is equivalent to random guessing

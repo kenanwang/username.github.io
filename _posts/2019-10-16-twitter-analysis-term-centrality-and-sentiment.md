@@ -188,7 +188,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](/assets/twitter//assets/twitter/output_17_0.png)
 
 
 
@@ -1880,7 +1880,7 @@ draw_graph(G, nodes_count=25)
 ```
 
 
-![png](output_52_0.png)
+![png](/assets/twitter/output_52_0.png)
 
 
 
@@ -1973,7 +1973,7 @@ tweet_storage['@TulsiGabbard']['cleaned_tweets'], tweet_storage['@TulsiGabbard']
 
 
 
-![png](output_63_1.png)
+![png](/assets/twitter/output_63_1.png)
 
 
     High Counts (10): [(('#tulsi2020',), {'count': 254}), (('regime', 'change'), {'count': 89}), (('@tulsigabbard',), {'count': 83}), (('tulsi', 'gabbard'), {'count': 72}), (('change', 'war'), {'count': 69}), (('#tulsigabbard',), {'count': 67}), (('american', 'people'), {'count': 67}), (('live', 'road'), {'count': 61}), (('saudi', 'arabia'), {'count': 48}), (('gabbard', 'live'), {'count': 44})]

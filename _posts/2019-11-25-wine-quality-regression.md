@@ -751,7 +751,7 @@ sns.heatmap(correlations_red, annot=True, cmap='RdBu_r')
 
 
 
-![png](output_18_1.png)
+![png](/assets/wine/output_18_1.png)
 
 
 
@@ -769,7 +769,7 @@ sns.heatmap(correlations_white, annot=True, cmap='RdBu_r')
 
 
 
-![png](output_19_1.png)
+![png](/assets/wine/output_19_1.png)
 
 
 
@@ -789,7 +789,7 @@ sns.violinplot(ex_red.quality)
 
 
 
-![png](output_20_2.png)
+![png](/assets/wine/output_20_2.png)
 
 
 
@@ -805,7 +805,7 @@ sns.violinplot(ex_white.quality)
 
 
 
-![png](output_21_1.png)
+![png](/assets/wine/output_21_1.png)
 
 
 ## II. Generate Analytical Base Table

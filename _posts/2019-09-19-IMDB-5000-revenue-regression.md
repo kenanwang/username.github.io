@@ -418,7 +418,7 @@ plt.xlim(-4.389357e+08, 4.389357e+08)
 
 
 
-![png](output_13_2.png)
+![png](/assets/imdb/output_13_2.png)
 
 
 Some movies lost a lot of money otherwise, the distribution looks vaguely normal but the movies that lost a lot of money are making the STD very high. Let's take a look at the potential outliers at the bottom of the distribution.
@@ -1063,7 +1063,7 @@ sns.violinplot(x=initial_df.profit)
 
 
 
-![png](output_20_2.png)
+![png](/assets/imdb/output_20_2.png)
 
 
 Luckily we didn't lose too much data. 3074 vs. 3891. Alos the data becomes very normal after removing non-US titles, a comforting outcome!
@@ -1075,7 +1075,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](/assets/imdb/output_22_0.png)
 
 
 
@@ -1905,7 +1905,7 @@ sns.countplot(y=initial_df.color)
 
 
 
-![png](output_29_1.png)
+![png](/assets/imdb/output_29_1.png)
 
 
 
@@ -1949,7 +1949,7 @@ sns.countplot(y='content_rating', data=initial_df)
 
 
 
-![png](output_33_1.png)
+![png](/assets/imdb/output_33_1.png)
 
 
 
@@ -1980,7 +1980,7 @@ sns.countplot(y='content_rating', data=initial_df)
 
 
 
-![png](output_36_1.png)
+![png](/assets/imdb/output_36_1.png)
 
 
 Better.
@@ -2721,7 +2721,7 @@ sns.heatmap(correlations, annot=True, cmap='RdBu_r', )
 
 
 
-![png](output_41_1.png)
+![png](/assets/imdb/output_41_1.png)
 
 
 The highest correlation of movie gross is with budget of the movie and with the number of reviews either users or critics, however the number of reviews is not something that we would have before a movie comes out so is of limited predictive value. We'll want to try predicting with and without these number of review features. The next highest correlations are with social media likes (for the movie and for the actors / directors), and with IMDB score; our estimated profit feature is not much correlated with anything but gross and IMDB score, our estimated profitability is not correlated with anything in the dataset.
@@ -2739,7 +2739,7 @@ sns.violinplot(initial_df.budget)
 
 
 
-![png](output_43_1.png)
+![png](/assets/imdb/output_43_1.png)
 
 
 
@@ -2755,7 +2755,7 @@ sns.violinplot(initial_df.gross)
 
 
 
-![png](output_44_1.png)
+![png](/assets/imdb/output_44_1.png)
 
 
 Our STD after removing duplicates, non-USA movies, and movies with no gross or budget information is 68,779,390; so we'll see if we can predict movies to within 17 M.
@@ -3013,7 +3013,7 @@ sns.countplot(y='content_rating', data=df)
 
 
 
-![png](output_54_2.png)
+![png](/assets/imdb/output_54_2.png)
 
 
 
@@ -5391,7 +5391,7 @@ sns.countplot(y=abt.aspect_ratio)
 
 
 
-![png](output_73_1.png)
+![png](/assets/imdb/output_73_1.png)
 
 
 
@@ -5408,7 +5408,7 @@ sns.countplot(y=abt.aspect_ratio)
 
 
 
-![png](output_74_1.png)
+![png](/assets/imdb/output_74_1.png)
 
 
 
@@ -6883,7 +6883,7 @@ plt.show()
 
 
 
-![png](output_95_1.png)
+![png](/assets/imdb/output_95_1.png)
 
 
 ## Insights & Analysis

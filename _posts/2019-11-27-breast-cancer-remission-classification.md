@@ -238,7 +238,7 @@ df.hist()
 
 
 
-![png](output_11_1.png)
+![png](/assets/breastcancer/output_11_1.png)
 
 
 
@@ -582,39 +582,39 @@ for column in df.dtypes[df.dtypes == 'object'].index:
 ```
 
 
-![png](output_18_0.png)
+![png](/assets/breastcancer/output_18_0.png)
 
 
 
-![png](output_18_1.png)
+![png](/assets/breastcancer/output_18_1.png)
 
 
 
-![png](output_18_2.png)
+![png](/assets/breastcancer/output_18_2.png)
 
 
 
-![png](output_18_3.png)
+![png](/assets/breastcancer/output_18_3.png)
 
 
 
-![png](output_18_4.png)
+![png](/assets/breastcancer/output_18_4.png)
 
 
 
-![png](output_18_5.png)
+![png](/assets/breastcancer/output_18_5.png)
 
 
 
-![png](output_18_6.png)
+![png](/assets/breastcancer/output_18_6.png)
 
 
 
-![png](output_18_7.png)
+![png](/assets/breastcancer/output_18_7.png)
 
 
 
-![png](output_18_8.png)
+![png](/assets/breastcancer/output_18_8.png)
 
 
 There are sparse classes in these features: age, menopause, tumor_size, inv_nodes, breast_quad.
@@ -730,7 +730,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](/assets/breastcancer/output_26_0.png)
 
 
 
@@ -1549,7 +1549,7 @@ plt.show()
 ```
 
 
-![png](output_57_0.png)
+![png](/assets/breastcancer/output_57_0.png)
 
 
 Degree of malignancy and number of invasive nodes were the two most important features. This makes some intuitive sense against what we would expect. Breast quad and Breast left vs. right made no contribution so it might be worth getting rid of them as features if we run this again, especially if we could get more total data by leaving those features out.
