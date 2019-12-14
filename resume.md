@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 <h1>Summary</h1>
-Former product manager for Wikipedia Mobile Web and Applications (25% of Wikipedia’s 14B pageviews). Oversaw the most significant boost to active editors in seven years. Recently started teaching myself Machine Learning with an intended focus on Natural Language Processing.
+Former product manager for Wikipedia Mobile Web and Applications (25% of Wikipedia’s 14B pageviews). Oversaw the most significant boost to active editors in seven years. Recently started teaching myself Machine Learning with an intended focus on application for Media and Publishing.
 
 My background is in startups: Founding member of a mobile technology startup that sold to Blackberry, key member of two other successfully sold companies in speech recognition and personal development. Recently helped start a publishing house as General Manager and Editor.
 

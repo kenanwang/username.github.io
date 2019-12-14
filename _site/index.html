@@ -49,17 +49,66 @@
           </a>
         </h3><p>This is a SQL query on the public BigQuery Database located <a href="https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball">here</a>. It allows you to find the number of games since 2013 where the game situation (game differential and time elapsed in the game) defined in the WHERE statement of the main query (found after the common table expressions) has happened. It also tells you how often the home team won in those games.</p>
 
+</li><li><span class="post-meta">Dec 1, 2019</span>
+        <h3>
+          <a class="post-link" href="/implementing%20algorithms/2019/12/01/implementing-perceptron.html">
+            Implementing Perceptron
+          </a>
+        </h3><p>This is an implementation of what is generally considered the most simple neural network (one neuron), the perceptron, with a gradient descent method for finding the weights for the synapses to that single neuron. This follows a <a href="https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/">guide from Machine Learning Mastery</a> except that I’m using a matrix formulation of this algorithm.</p>
+
+</li><li><span class="post-meta">Nov 30, 2019</span>
+        <h3>
+          <a class="post-link" href="/processed%20data/2019/11/30/nba-win-percentage.html">
+            NBA Win Percentage
+          </a>
+        </h3><p>On ESPN if you watch the gamecast of a game they give an updated win percentage as the game progresses. We are going to produce a similar prediction, calculating win percentage for a home team given point differential, quarter, and time left in the game.</p>
+
+</li><li><span class="post-meta">Nov 29, 2019</span>
+        <h3>
+          <a class="post-link" href="/implementing%20algorithms/2019/11/29/implementing-k-nearest-neighbors.html">
+            Implementing k-Nearest Neighbors
+          </a>
+        </h3><p>This is an implementation of k_Nearest neighbors using only the most basic python libraries. k-Nearest neighbors is a relatively simple algorithm that is supervised (thus attempts to predict a target variable). However k-Nearest neighbors does not require a training period and it is not parameterized, meaning we don’t need to define the training features ahead of time. It takes an instance of data and attempts to predict the target variable by looking at a set of the nearest neighbors (number of neighbors is equal to a variable that we set i.e. k) to that instance.</p>
+
+</li><li><span class="post-meta">Nov 27, 2019</span>
+        <h3>
+          <a class="post-link" href="/processed%20data/2019/11/27/breast-cancer-remission-classification.html">
+            Breast Cancer Remission Classification
+          </a>
+        </h3><p>I will be analyzing a dataset about Breast Cancer remission. The target variable is predicting remission, so we will be performing binary classification. The data is categorical in nature.</p>
+
+</li><li><span class="post-meta">Nov 26, 2019</span>
+        <h3>
+          <a class="post-link" href="/implementing%20algorithms/2019/11/26/OLSLR-simple-and-gradient-descent.html">
+            Implementing Ordinary Least Squares Linear Regression
+          </a>
+        </h3><p>Linear regression is an approach to modeling where the prediction is a linear combination of some model parameters and the input variables. In this notebook I implement two algorithms for linear regression: Simple Linear Regression and a Gradient Descent Algorithm for Ordinary Least Squares.</p>
+
 </li><li><span class="post-meta">Nov 25, 2019</span>
         <h3>
-          <a class="post-link" href="/end%20to%20end%20projects/implementing%20algorithms/2019/11/25/enron-anomaly-detection.html">
+          <a class="post-link" href="/processed%20data/2019/11/25/wine-quality-regression.html">
+            Wine Quality Regression
+          </a>
+        </h3><p>Performing Data Science on Wine Quality Databases in the UCI repository. This is a supervised learning project since there is a training variable. Because the target variable is numeric we will evaluate this data against both linear and logistic regression algorithms. We will utilize regularization on our linear regression to prevent overfitting, and we will utilize ensembles to improve our logistic regression. Cross validation will allow us to tune our hyperparameters.</p>
+
+</li><li><span class="post-meta">Nov 24, 2019</span>
+        <h3>
+          <a class="post-link" href="/end%20to%20end%20projects/2019/11/24/enron-anomaly-detection.html">
             Enron Anomaly Detection using Neural Network Analysis
           </a>
         </h3><p>In this project I am replicating analysis from a research paper found below. This project maps a social network as a neural network, precisely a Hopfield memory network. We feed the Hopfield memory network features that represent anomalously high amounts of activity. We use a Hebbian learning rule to train our memory network. The Hebbian rule “remembers” nodes that fire together.  Thus, our memory network algorithm takes the input data of individuals who are displaying elevated activity, and extracts an even more precise signal of specific subnetworks of elevated activity occurring together.</p>
 
+</li><li><span class="post-meta">Nov 22, 2019</span>
+        <h3>
+          <a class="post-link" href="/implementing%20algorithms/2019/11/22/implementing-naive-bayes.html">
+            Naive-Bayes Implementation
+          </a>
+        </h3><p>This is an implementation of a Gaussian Naive-Bayes using only numpy using toy data. I follow this <a href="https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/">guide</a> and use scikit learn for accuracy scoring and I later compare my implementation to the scikit-learn implementation.</p>
+
 </li><li><span class="post-meta">Oct 16, 2019</span>
         <h3>
-          <a class="post-link" href="/end%20to%20end%20projects/2019/10/16/twitter-terms-analysis-centrality-and-sentiment.html">
-            Twitter Terms Analysis of Centrality and Sentiment
+          <a class="post-link" href="/end%20to%20end%20projects/2019/10/16/twitter-analysis-term-centrality-and-sentiment.html">
+            Twitter Analysis of Term Centrality and Sentiment
           </a>
         </h3><p>My goal will be be to use the Twitter API to import tweets related to a user or a hashtag. I will use Bag of Words (BOW) to create features on this data. Because more information is contained in terms than individual words I’ll perform this analysis on bigrams not individual words. From these BOW features, also called terms, I will perform two analyses:<br />
 1) I will find the most important terms. The way I will do this is by modeling the terms in a network with the terms as networks and co-occurence in tweets as edges. I’ll then look for the terms with the highest centrality.<br />

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Terms Analysis of Centrality and Sentiment
+title: Twitter Analysis of Term Centrality and Sentiment
 categories: [End to End Projects]
 tags: [Twitter, NetworkX, NLTK, NLP, Bag Of Words, Sentiment Analysis]
 ---
