@@ -19,15 +19,15 @@ My background is in startups as a founding member of a mobile technology startup
 * Wikipedia Android and iOS app reboots.  
 
 **2+ years product lead for AppCentral**  
-* Took our product through V1 when we received venture funding.  
-* Developed key product marketing blogs and write ups.  
-* Liaised as marketing lead to key clients including Honeywell, US DoD, and Pepsi.  
+* Took our product through [V1](https://www.prnewswire.com/news-releases/quickly-easily-securely-deploy-your-enterprise-apps-with-appcentral-v10-98012829.html) when we received [venture funding](https://www.brv.com/app-central).  
+* Developed key product marketing [materials](/assets/Mobile Application Lifecycle Whitepaper.pdf).  
+* Liaised as marketing lead to key clients including Honeywell, [Mitsubishi](/assets/Case-Study-Mitsubishi-120622.pdf), and US DoD.  
 
 <h1>Machine Learning and Mobile</h1>
 
 **Machine Learning**  
 Education  
-* UC Berkeley Math and Physics double major. Alumni scholar and research fellow at the National Institute for Standards and Technology.  
+* UC Berkeley Math and Physics double major. Alumni scholar and [research fellow](/assets/Kenan Wang 07 colloq abs.pdf) at the National Institute for Standards and Technology.  
 * EliteDataScience Machine Learning Accelerator [certification](https://www.credential.net/610t031f) and Kaggle SQL certification.  
 
 Portfolio  
@@ -40,7 +40,7 @@ Skills
 
 **Mobile (5+ years)**  
 Professional  
-* 4 years at AppCentral.  
+* 4 years at AppCentral, where we invented [Mobile Application Management](https://en.wikipedia.org/wiki/Mobile_application_management).  
 * 1 year as the product manager for Wikipedia mobile web and applications.  
 * Helped prototype a [mobile security messaging app](https://www.prweb.com/releases/2010/01/prweb3437544.htm) that was acquired.
 
@@ -53,9 +53,9 @@ Advisory
 <h1>Entrepreneurship</h1>
 
 **Three acquired companies**
-1. AppCentral - enterprise app store and security SDK startup purchased by BlackBerry through Good Technologies. I was on the founding team as an operations and then a product lead.
+1. AppCentral - enterprise app store and security SDK startup [acquired](https://www.prnewswire.com/news-releases/good-technology-signs-agreement-to-acquire-appcentral-inc-172231601.html) by BlackBerry through Good Technologies. I was on the founding team as an operations and then a product lead.
 2. Personal development company - privately purchased. Among the Inc 5000 fastest growing companies in the US 2014 - 2017. VP of Operations and then GM for the number one office (NY).
-3. Utopy - Speech recognition startup acquired by Genesys. As the partners lead I managed over half of the pre-acquisition sales pipeline.  
+3. Utopy - Speech recognition startup [acquired by Genesys](https://www.gartner.com/en/documents/2557316/genesys-new-ownership-and-its-acquisition-of-utopy-and-a). As the partners lead I managed over half of the pre-acquisition sales pipeline.  
 
 **Other ventures**
 * Helped start a publishing company, the Great Work Publishing, as manager and editor.  
