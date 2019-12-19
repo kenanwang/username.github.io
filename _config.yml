@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kenan Wang professional website
+title: Kenan Wang
 email: kenanwang1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Berkeley Math and Physics grad educated in Data Science.

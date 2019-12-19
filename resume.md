@@ -31,11 +31,11 @@ Education
 * EliteDataScience Machine Learning Accelerator [certification](https://www.credential.net/610t031f) and Kaggle SQL certification.  
 
 Portfolio  
-* Three [end to end projects](/organized_portfolio/) demonstrating best in class ML workflows, network analysis, NLP, neural network implementations.  
+* Four [end to end projects](/organized_portfolio/) demonstrating best in class ML workflows, network analysis, NLP, neural network implementations.  
 * Implemented algorithms: OLS linear regression, naive-bayes, k-nearest neighbors, perceptron, simple neural net.  
 
 Skills  
-* *Technologies: Numpy, Pandas, Pyplot, Seaborn, Scikit-Learn, NetworkX, NLTK, SQL.*  
+* *Technologies: Python, Numpy, Pandas, Pyplot, Seaborn, Scikit-Learn, NetworkX, NLTK, SQL.*
 * *Techniques: linear regression, logistic regression, regularization, decision tree ensembles, cross validation, sentiment analysis, network analysis, nlp feature engineering, neural networks.*  
 
 **Mobile (5+ years)**  
@@ -46,7 +46,7 @@ Professional
 
 Advisory  
 * Current advisor for [TopFlight apps](https://topflightapps.com/), a mobile development company focused on the healthcare space.  
-* Former couch for [BioInspira](http://www.bioinspira.com/), award winning healthcare startup, with key mobile components.  
+* Former coach for [BioInspira](http://www.bioinspira.com/), award winning healthcare startup, with key mobile components.  
 * Early founding member for [international mobile startup competition](https://www.prnewswire.co.uk/news-releases/bmic-holds-first-university-mobile-challenge-at-the-gsma-mobile-world-congress-2011-156461255.html).  
 
 
