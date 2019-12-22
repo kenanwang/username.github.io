@@ -217,11 +217,6 @@ sequence_generator(testing[0][3], testing[0], char_to_ix, ix_to_char, seed_char=
 
 
 
-    "Aaxf1y@JuM:3;Rn0ui'y@JuM:3;Rn0ui'y@JuM:3;Rn0ui'y@JuM:3;Rn0ui'y@JuM:3;Rn0ui'y@JuM:3;Rn0ui'y@JuM:3;Rn0u"
-
-
-
-
 ```python
 def train_rnn(data, hyperparameters, seed=1, init_parameters=None, use_init_parameters=False):
 
