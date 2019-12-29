@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multilayer Perceptron for Movie Sentiment Analysis
+title: Sentiment Analysis with Bag of Words and a Multilayer Perceptron
 categories: [Processed Data]
 tags: [NLP, MLP, Keras, Tensorflow, NLTK, Bag of Words]
 ---
