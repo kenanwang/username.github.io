@@ -7,11 +7,9 @@ tags: [RNN, LSTM, Language Model]
 
 [<img src="https://www.dw.com/image/39219505_303.jpg">]
 
-This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I'm going to try The Beatles).
+This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I'm going to try The Beatles). The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
 
-The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
-
-The model will have two layers of LSTMs with 64 hidden nodes each, and we will try generating text after various levels of training. Additionally, this project contains the data preparation, the model building, and analysis of the model and the training process throughout. 
+The model will have two layers of LSTMs with 64 hidden nodes each, and we will try generating text after various levels of training. Additionally, this project contains data preparation, model creation, and analysis of the algorithms. 
 
 After 200 Epochs of training the model produced these reasonably Beatlesesque lyrics:
 
