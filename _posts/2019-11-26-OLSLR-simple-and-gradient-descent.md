@@ -2,7 +2,7 @@
 layout: post
 title: Implementing Ordinary Least Squares Linear Regression
 categories: [Implementing Algorithms]
-tags: [Ordinary Least Squares, Linear Regression, Linear Algebra, Gradient Descent]
+tags: 
 ---
 
 Linear regression is an approach to modeling where the prediction is a linear combination of some model parameters and the input variables. In this notebook I implement two algorithms for linear regression: Simple Linear Regression and a Gradient Descent Algorithm for Ordinary Least Squares.

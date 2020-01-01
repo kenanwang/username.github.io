@@ -2,7 +2,7 @@
 layout: post
 title: Naive-Bayes Implementation
 categories: [Implementing Algorithms]
-tags: [Naive-Bayes, Statistics, Probability, Linear Algebra]
+tags:
 ---
 This is an implementation of a Gaussian Naive-Bayes using only numpy using toy data. I follow this [guide](https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/) and use scikit learn for accuracy scoring and I later compare my implementation to the scikit-learn implementation.
 

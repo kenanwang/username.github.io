@@ -2,7 +2,7 @@
 layout: post
 title: Implementing Recurrent Neural Network
 categories: [Implementing Algorithms]
-tags: [RNN, Neural Networks, Deep Learning, NLP]
+tags: 
 ---
 This is an implementation of a basic RNN (not bi-directional, not an LSTM) from scratch (using only numpy). This program will do character level text prediction.
 

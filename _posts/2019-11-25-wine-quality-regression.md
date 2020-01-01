@@ -2,7 +2,7 @@
 layout: post
 title: Wine Quality Regression
 categories: [Processed Data]
-tags: [Linear Regression, Logistic Regression, Decision Tree Ensemble, Binary Classification, Regularization, Cross Validation]
+tags: 
 ---
 Performing Data Science on Wine Quality Databases in the UCI repository. This is a supervised learning project since there is a training variable. Because the target variable is numeric we will evaluate this data against both linear and logistic regression algorithms. We will utilize regularization on our linear regression to prevent overfitting, and we will utilize ensembles to improve our logistic regression. Cross validation will allow us to tune our hyperparameters.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Twitter Analysis of Term Centrality and Sentiment
 categories: [End to End Projects]
-tags: [Twitter, NetworkX, NLTK, NLP, Bag Of Words, Sentiment Analysis]
+tags:
 ---
 My goal will be be to use the Twitter API to import tweets related to a user or a hashtag. I will use Bag of Words (BOW) to create features on this data. Because more information is contained in terms than individual words I'll perform this analysis on bigrams not individual words. From these BOW features, also called terms, I will perform two analyses:  
 1) I will find the most important terms. The way I will do this is by modeling the terms in a network with the terms as networks and co-occurence in tweets as edges. I'll then look for the terms with the highest centrality.  

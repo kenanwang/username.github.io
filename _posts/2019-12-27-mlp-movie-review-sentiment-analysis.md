@@ -2,7 +2,7 @@
 layout: post
 title: Sentiment Analysis with Bag of Words and a Multilayer Perceptron
 categories: [Processed Data]
-tags: [NLP, MLP, Keras, Tensorflow, NLTK, Bag of Words]
+tags:
 ---
 
 Use TF Keras to build and test various MLPs on Movie Sentiment Analysis. Use NLTK to clean data.

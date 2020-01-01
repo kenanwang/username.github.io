@@ -2,7 +2,7 @@
 layout: post
 title: IMDB 5000 Revenue Regression
 categories: [End to End Projects]
-tags: [Numpy, Pandas, PyPlot, Seaborn, SciKitLearn, Linear Regression, Decision Tree Ensembles]
+tags:
 ---
 This project applies Machine Learning to an IMDB database of 5000 movies. The goal is to predict the revenue of a movie at a level that is helpful to a studio. To define a metric for this project I will estimate profit margin for the movies. This will be done assuming that the total budget for a movie can be estimated by doubling the production budget of that movie<sup>1</sup>. I will find the standard deviation of profit margin for the movies in this dataset and attempt to predict revenue to within 1/4 of that standard deviation. The reason for this win condition is that I believe it would be helpful for movie executives to prevent the worst loses in their portfolio and also avoid underbudgeting strong performers.
 

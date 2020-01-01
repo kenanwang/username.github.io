@@ -2,7 +2,7 @@
 layout: post
 title: Build a Neural Net
 categories: [Implementing Algorithms]
-tags: [Deep Learning, Neural Networks]
+tags:
 ---
 This is an implementation of a simple neural net on toy data using only numpy for linear algebra. There is one hidden layer of neurons and thus two layers of synapses. It uses backpropogation to train the synapse weights. Thanks to Siraj Raval who showed this simple implementation on [YouTube](https://www.youtube.com/watch?v=h3l4qz76JhQ).
 

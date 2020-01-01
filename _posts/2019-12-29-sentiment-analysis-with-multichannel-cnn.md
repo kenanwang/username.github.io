@@ -2,7 +2,7 @@
 layout: post
 title: Sentiment Analysis with Multi-Channel CNNs
 categories: [Processed Data]
-tags: [CNN, Tensorflow, Keras]
+tags: 
 ---
 
 This project performs sentiment analysis with word embeddings and CNNs, but improves the performance by training 3 CNNs with different kernels.

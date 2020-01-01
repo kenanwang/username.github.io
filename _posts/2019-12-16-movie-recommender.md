@@ -2,7 +2,7 @@
 layout: post
 title: Movie Recommender
 categories: [Processed Data]
-tags: [Item Based Collaborative Filtering, Cross Validation, Hyperparameter Tuning]
+tags: w
 ---
 This project uses item based collaborative filtering to make movie recommendations. Because this project was unique I implemented cross-validation and hyperparameter tuning from scratch, and defined a project specific cost function.
 

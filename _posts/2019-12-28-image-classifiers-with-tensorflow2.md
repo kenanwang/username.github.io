@@ -2,7 +2,7 @@
 layout: post
 title: Image Classifiers with Tensorflow 2.0
 categories: [Processed Data]
-tags: [Tensorflow, MiniGoogleNet, CNN]
+tags: 
 ---
 This project explores Tensorflow 2.0 using Keras to build the an image classifiers in three different ways.
 

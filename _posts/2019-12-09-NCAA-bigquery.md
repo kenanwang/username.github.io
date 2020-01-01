@@ -2,7 +2,7 @@
 layout: post
 title: NCAA Game Situation
 categories: SQL
-tags: [BigQuery]
+tags: 
 ---
 This is a SQL query on the public BigQuery Database located [here](https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball). It allows you to find the number of games since 2013 where the game situation (game differential and time elapsed in the game) defined in the WHERE statement of the main query (found after the common table expressions) has happened. It also tells you how often the home team won in those games.
 

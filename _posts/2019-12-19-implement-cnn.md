@@ -2,7 +2,7 @@
 layout: post
 title: Implementing Convolutional Neural Network
 categories: [Implementing Algorithms]
-tags: [CNN, Neural Networks, Deep Learning, Image Recognition]
+tags: 
 ---
 This notebook is an implementation of a convolutional neural network with forward and back propogation using no machine learning libraries. I will implement one convolution layer, one activation layer, one pooling layer, one fully connected layer producing logits, and then a softmax.
 

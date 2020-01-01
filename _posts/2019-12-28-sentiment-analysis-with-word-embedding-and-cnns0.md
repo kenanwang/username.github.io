@@ -2,7 +2,7 @@
 layout: post
 title: Sentiment Analysis with Word Embeddings and CNNs
 categories: [Processed Data]
-tags:
+tags: 
 ---
 
 Use word embeddings to encode text and a single layer convolutional networks to perform classification.

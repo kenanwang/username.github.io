@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Case Study Sales Operations
-categories: []
-tags: [Operations]
+categories: [Business Operations]
+tags:
 ---
 **Need**
 Wellness company in Philadelphia that sold personal growth courses. The office had periods of success but was was inconsistent. The problem was that the office was perpetually cash strapped and was thus constantly focused on closing or finding the next prospect. However, the majority of customers who were potential, but not immediate, prospects received little attention. The company had a “leaky bucket” problem.

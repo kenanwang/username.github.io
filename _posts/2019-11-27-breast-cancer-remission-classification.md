@@ -2,7 +2,7 @@
 layout: post
 title: Breast Cancer Remission Classification
 categories: [Processed Data]
-tags: [Binary Classification, Logistic Regression, Decision Tree Ensembles, Regularization, Cross Validation]
+tags: 
 ---
 I will be analyzing a dataset about Breast Cancer remission. The target variable is predicting remission, so we will be performing binary classification. The data is categorical in nature.
 

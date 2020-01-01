@@ -2,7 +2,7 @@
 layout: post
 title: NBA Win Percentage
 categories: [Processed Data]
-tags: [Probability]
+tags: 
 ---
 On ESPN if you watch the gamecast of a game they give an updated win percentage as the game progresses. We are going to produce a similar prediction, calculating win percentage for a home team given point differential, quarter, and time left in the game.
 
