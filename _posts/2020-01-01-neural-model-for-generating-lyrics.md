@@ -11,7 +11,30 @@ This project uses LSTMs in Tensorflow Keras to build word based language models 
 
 The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
 
-The model will have two layers of LSTMs and we will try generating text after various levels of training.
+The model will have two layers of LSTMs with 64 hidden nodes each, and we will try generating text after various levels of training. Additionally, this project contains the data preparation, the model building, and analysis of the model and the training process throughout. 
+
+After 200 Epochs of training the model produced these reasonably Beatlesesque lyrics:
+
+```
+    hey, hey, sing with me
+
+     i don't wanna kiss you , yeah
+     all i gotta do is act naturally
+
+     well , i'll bet you i'm gonna be a big star
+     might win an oscar you can never tell
+     i went out to go
+     and can look to me to me
+     and i will sing a lullaby .
+
+     golden slumbers ,
+     fill your eyes
+     smiles await you when you rise
+     sleep pretty darling
+     do not cry
+     so i know that you will plainly see
+     the biggest fool that ever
+```
 
 ## Import Libraries
 
