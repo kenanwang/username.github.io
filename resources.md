@@ -57,7 +57,3 @@ Some management recommendations from the above essay:
 [*TopGrading*](https://www.topgrading.com/) by Bradford Smart the book isn't well reviewed but all you need is the interviewing guide. I’ve used a stripped down version of the CIDS interview to both make and attract top hires.  
 
 [Operating startups](/2019/04/25/startup-operations-primer.html) often has similar challenges. I've dealt with many of those changes before and delineated general workable solutions. I've also put them into practice:
-
-[Case Study Sales Operations](/2019/04/21/case-study-sales-operations.html)
-
-[Case Study Lead Generation](/2019/04/21/case-study-lead-generation.html)

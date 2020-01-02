@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Case Study Sales Operations
-categories: [Business Operations]
+categories: [Startup Operations]
 tags:
 ---
 **Need**

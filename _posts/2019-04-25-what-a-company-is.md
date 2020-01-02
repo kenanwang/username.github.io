@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What a company is
-categories: [Business Operations]
-tags:
+categories: [Startup Operations]
+tags: [April '19]
 ---
 
 A company has various levels of control: hypothesis, strategy, management, activity. Hypothesis forms strategy, strategy directs management, management molds activity, good activity creates good companies.

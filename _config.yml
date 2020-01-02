@@ -21,9 +21,7 @@
 title: Kenan Wang
 email: kenanwang1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Berkeley Math and Physics grad educated in Data Science.
-    Former PM for Wikipedia Mobile (25% traffic).
-    Three sold startups.
+    ML projects with an intended focus on NLP. Essays to think better and entertain. Portfolio for product mgmt + startup + ML and mobile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kenanwang

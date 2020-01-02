@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Case Study Lead Generation
-categories: [Business Operations]
+categories: [Startup Operations]
 tags:
 ---
 

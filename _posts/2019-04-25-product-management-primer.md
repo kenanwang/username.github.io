@@ -2,7 +2,7 @@
 layout: post
 title: Product Management Primer
 categories: [Product Management]
-tags:
+tags: [April '19]
 ---
 
 Companies must make decisions about what to build in their products and what not to build. What allows for good decisions? Memory, communication, learning feedback, and direction. When a team and a product are small enough the team implicitly and organically remembers all the relevant experiences, speaks the same language, hears the same feedback, and moves in the same direction. But when either the team or the product grow too much memory has to be recorded to be shared, language must be pruned to be useful, feedback must be sought and delivered, direction has to be spoken about.
