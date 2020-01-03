@@ -2,10 +2,12 @@
 layout: post
 title: Implementing Perceptron
 categories: [Implementing Algorithms]
-tags: 
+tags:
 ---
 
-This is an implementation of what is generally considered the most simple neural network (one neuron), the perceptron, with a gradient descent method for finding the weights for the synapses to that single neuron. This follows a [guide from Machine Learning Mastery](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/) except that I'm using a matrix formulation of this algorithm.
+This is an implementation of what is generally considered the most simple neural network (one neuron), the perceptron, with a gradient descent method for finding the weights for the synapses to that single neuron.
+
+This follows a [guide from Machine Learning Mastery](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/) except that I'm using a matrix formulation of this algorithm.
 
 
 ```python

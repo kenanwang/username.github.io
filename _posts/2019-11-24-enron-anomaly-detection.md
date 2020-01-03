@@ -4,9 +4,15 @@ title: Enron Anomaly Detection using Neural Network Analysis
 categories: [End to End Projects]
 tags:
 ---
-In this project I am replicating analysis from a research paper found below. This project maps a social network as a neural network, precisely a Hopfield memory network. We feed the Hopfield memory network features that represent anomalously high amounts of activity. We use a Hebbian learning rule to train our memory network. The Hebbian rule "remembers" nodes that fire together.  Thus, our memory network algorithm takes the input data of individuals who are displaying elevated activity, and extracts an even more precise signal of specific subnetworks of elevated activity occurring together.  
+![image.png](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNkSJCq7BVSo/v0/1200x-1.jpg)
+Photographer: James Nielsen/Getty Images
 
-I use the Enron Corpus, found here: https://www.kaggle.com/wcukierski/enron-email-dataset, to try to replicate the analysis from this paper:
+
+In this project I am replicating analysis from a research paper found below. This project looks at the activity of a social network as activity in a neural network. Then it attempts to look at "memories" inside of that network and treat the most prominent memories in that network as anomalies in the activity of that social network.  
+
+Precisely, the project maps social networks as a Hopfield memory network. I feed the Hopfield memory network activity that is reasonably higher than average. I use a Hebbian learning rule to train the memory network. The Hebbian rule "remembers" nodes that fire together.  Thus, the memory network algorithm takes the input data of individuals who are displaying elevated activity, and extracts groups of people all displaying elevated activity together. These groups of elevated activity are thought to be a good signal of anomalous events (better than chasing individual instances of elevated activity).  
+
+I use the Enron Corpus found [here](https://www.kaggle.com/wcukierski/enron-email-dataset) to try to replicate the analysis from this paper:
 
 Volodymyr Miz, Benjamin Ricaud, Kirell Benzi, and Pierre Vandergheynst. 2019. Anomaly detection in the dynamics of web and social networks. In Proceedings of May 13-17 (TheWebConf 2019). , 10 pages. https://doi.org/10.475/123_4
 

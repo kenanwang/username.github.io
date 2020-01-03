@@ -1,20 +1,33 @@
 ---
 layout: post
-title: Twitter Analysis of Term Centrality and Sentiment
+title: Analyzing Twitter Feeds of Politicians
 categories: [End to End Projects]
 tags:
 ---
-My goal will be be to use the Twitter API to import tweets related to a user or a hashtag. I will use Bag of Words (BOW) to create features on this data. Because more information is contained in terms than individual words I'll perform this analysis on bigrams not individual words. From these BOW features, also called terms, I will perform two analyses:  
-1) I will find the most important terms. The way I will do this is by modeling the terms in a network with the terms as networks and co-occurence in tweets as edges. I'll then look for the terms with the highest centrality.  
-2) I will perform Sentiment Analysis on the terms.  
+![image.png](https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
 
-I will perform Sentiment Analysis using words from a lexicon from this paper:
+I will use the Twitter API to import tweets related to a user or a hashtag. Then looking at the most common terms for a user:  
+1. I will find the most important terms. The way I will do this is by looking at a person's tweet as a network of interrelated words. If the words occur in a tweet together I'll consider them interrelated. Then I'll use mathematical analysis of this network to tell me which words are the most important. Mathematically this kind of analysis on networks is done by calculating Centrality.  
+2. I will perform Sentiment Analysis on the terms, looking for what they speak positively or negatively about.  
+
+Because more information is contained in phrases than individual words I'll perform the analyses on two word phrases, called bigrams, not individual words. I will perform Sentiment Analysis by looking for positive and negative words identified in this paper:
 
 Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, Washington, USA,
 
+And I will use a measure of sentiment called Semantic Orientation, described in this paper:
+@misc{turney2002thumbs,  
+    title={Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews},  
+    author={Peter D. Turney},  
+    year={2002},  
+    eprint={cs/0212032},  
+    archivePrefix={arXiv},  
+    primaryClass={cs.LG}  
+}
+
+
 Because the politics is so top of mind for people nowadays I will do Twitter analysis against politicians: Donald Trump, Joe Biden, and Tulsi Gabbard.
 
-Thanks to [Marco Bonzanini](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/) whose blog helped me a lot with the twitter data mining.
+Thanks to [Marco Bonzanini](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/) whose blog helped me a lot with this project.
 
 ## Importing Libraries and Data
 
@@ -188,7 +201,7 @@ plt.show()
 ```
 
 
-![png](/assets/twitter//assets/twitter/output_17_0.png)
+![png](/assets/twitter/output_17_0.png)
 
 
 

@@ -5,6 +5,8 @@ categories: [Startup Operations]
 tags: [April '19]
 ---
 
+![image.png](https://images.unsplash.com/photo-1457694716743-eb419114c894?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 Getting first customers is commendable; however, having customers and being cash flow positive are two different things. To go from having your first customers to having a solvent business is a complex problem. To resolve that complexity there are three areas that almost any company needs help with: systems, metrics, and financial control.
 
 Systems are all about reducing guesswork. As GM of my first office, in Philadelphia, we were always guessing where our sales were going to come from. We had a CRM, and we had leads. But what we lacked was a systematic way of cultivating leads, if we ran out of potentials we scrambled. In order to fix this we replaced our old paper sign in process with an electronic sign in process. This insured that every new customer was entered into the CRM not just the most promising ones. Then we implemented two things 1) a four week calling plan to cultivate leads 2) a shift in strategy from “selling now” to one that encouraged repeat visits. Over one year, membership increased 280%, revenue increased 85%.

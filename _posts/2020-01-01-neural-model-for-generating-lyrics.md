@@ -5,7 +5,7 @@ categories: [End to End Projects]
 tags:
 ---
 
-[<img src="https://www.dw.com/image/39219505_303.jpg">]
+![image.png](https://www.dw.com/image/39219505_303.jpg)
 
 This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I'm going to try The Beatles). The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
 

@@ -2,10 +2,12 @@
 layout: post
 title: Implementing k-Nearest Neighbors
 categories: [Implementing Algorithms]
-tags: 
+tags:
 ---
 
-This is an implementation of k_Nearest neighbors using only the most basic python libraries. k-Nearest neighbors is a relatively simple algorithm that is supervised (thus attempts to predict a target variable). However k-Nearest neighbors does not require a training period and it is not parameterized, meaning we don't need to define the training features ahead of time. It takes an instance of data and attempts to predict the target variable by looking at a set of the nearest neighbors (number of neighbors is equal to a variable that we set i.e. k) to that instance.
+This is an implementation of k_Nearest neighbors using only the most basic python libraries. This algorithm takes make predictions by looking at a set of data points that is most similar, called neighbors, and looking at a number of them (k is the variable in the algorithm that specifies the number of neighbors we will look at).
+
+k-Nearest neighbors is a relatively simple algorithm that is supervised (thus attempts to predict a target variable). But k-Nearest neighbors does not require a training period and it is not parameterized, meaning we don't need to define the training features ahead of time.
 
 We will test this against the popular Iris Dataset
 

@@ -4,13 +4,16 @@ title: Case Study Sales Operations
 categories: [Startup Operations]
 tags:
 ---
-**Need**
+
+![image.png](https://images.unsplash.com/photo-1528675025161-ea13b463cc02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
+
+**Need**  
 Wellness company in Philadelphia that sold personal growth courses. The office had periods of success but was was inconsistent. The problem was that the office was perpetually cash strapped and was thus constantly focused on closing or finding the next prospect. However, the majority of customers who were potential, but not immediate, prospects received little attention. The company had a “leaky bucket” problem.
 
-**Approach**
+**Approach**  
 When I took over as General Manager I instituted a new metric to address the leaky bucket problem. In addition to tracking revenue we tracked repeat customers. Even if a customer didn’t buy from us immediately, if we could get them to return we considered that a type of success. In order to more accurately track this metric we instituted electronic instead of paper sign in processes. Additionally, I built processes and call scripts to reengage customers and progress a sales process.
 
-**Benefit**
+**Benefit**  
 Over one year we increased membership by 285% and we increased revenue by 85%. The company also became reliably cash flow positive.
 
 **Lessons Learned:**  

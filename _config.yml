@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     ML projects with an intended focus on NLP. Essays to think better and entertain. Portfolio for product mgmt + startup + ML and mobile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-155275172-1
 twitter_username: kenanwang
 github_username:  kenanwang
 linkedin_username: kenanwang

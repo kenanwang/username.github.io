@@ -2,7 +2,7 @@
 layout: post
 title: Implementing Convolutional Neural Network
 categories: [Implementing Algorithms]
-tags: 
+tags:
 ---
 This notebook is an implementation of a convolutional neural network with forward and back propogation using no machine learning libraries. I will implement one convolution layer, one activation layer, one pooling layer, one fully connected layer producing logits, and then a softmax.
 
@@ -47,7 +47,7 @@ scipy.misc.toimage(scipy.misc.imresize(X_train[0,:,:] * -1 + 256, 10.))
 
 
 
-![png](output_4_1.png)
+![png](/assets/implementcnn/output_4_1.png)
 
 
 
@@ -441,10 +441,3 @@ out, cache_total, acc, avg_loss = train_cnn(X_train_norm_sample, y_train_sample,
     Epoch 5
      Accuracy:83.00, Avg Loss: 1.48968
      ---
-
-
-
-
-```
-
-```

@@ -2,13 +2,15 @@
 layout: post
 title: Wine Quality Regression
 categories: [Processed Data]
-tags: 
+tags:
 ---
-Performing Data Science on Wine Quality Databases in the UCI repository. This is a supervised learning project since there is a training variable. Because the target variable is numeric we will evaluate this data against both linear and logistic regression algorithms. We will utilize regularization on our linear regression to prevent overfitting, and we will utilize ensembles to improve our logistic regression. Cross validation will allow us to tune our hyperparameters.
+Performing regression and binary classification on Wine Quality Databases in the UCI repository. This is a supervised learning project since there is a training variable.
 
-Win condition: the wine quality comes in integer numbers. We will attempt to predict quality to a >90% accuracy after rounding our predictions.
+We will utilize regularization on our linear regression to prevent overfitting, and we will utilize ensembles to improve our logistic regression and decision trees. Cross validation will allow us to tune our hyperparameters. I was able to achieve the classification win condition, but not the regression win condition
 
-Alternate win condition: The qualities range from 3-9, the mean is about 5.7-5.9 for both datasets, and the std is about .8-.9 for both. Any value 7 or above would be more than one STD above the mean for either dataset, we can define these as good wines and the others as bad and turn this into a binary classification problem. We will look for an AUROC score above .9.  
+Regression win condition: the wine quality comes in integer numbers. We will attempt to predict quality to a >90% accuracy after rounding our predictions.
+
+Classification win condition: The qualities range from 3-9, the mean is about 5.7-5.9 for both datasets, and the std is about .8-.9 for both. Any value 7 or above would be more than one STD above the mean for either dataset, we can define these as good wines and the others as bad and turn this into a binary classification problem. We will look for an AUROC score above .9.  
 
 ## 0. Import Libraries
 
@@ -1459,7 +1461,7 @@ for name, model in fitted_models.items():
 
 ## IV. Analysis
 
-I was not able to achieve my first win condition of predicting the integer value of the win qualities to 90% accuracy, I was able to acheive the alternate win condition of predicting good wines with an AUROC score above .9.
+I was not able to achieve my first win condition of predicting the integer value of the win qualities to 90% accuracy, I was able to acheive the classification win condition of predicting good wines with an AUROC score above .9.
 
 
 ```python

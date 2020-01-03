@@ -2,7 +2,7 @@
 layout: post
 title: Image Classifiers with Tensorflow 2.0
 categories: [Processed Data]
-tags: 
+tags:
 ---
 This project explores Tensorflow 2.0 using Keras to build the an image classifiers in three different ways.
 
@@ -10,7 +10,9 @@ Recently when Tensorflow 2.0 was released, a number of changes occurred includin
 
 I will also explore how to export data to Tensorboard using Tensorflow 2.0 which has moved away from using sessions.
 
-Note: I originally tried using tfds to load this data and use tensorflow dataset objects to do this project, however tensorflow datasets don't play nicely with keras preprocessing modules. Datasets are lazy loaded so all preprocessing on datasets must be done through mapping functions and not on the data directly. These mapping functions must act on tensors natively. However Keras preprocessing modules are unable to be used as mapping functions because they only work on numpy arrays.
+Lastly, I will use an AWS EC2 instance. Note about this is that AWS performed the first fitting reasonably faster than my CPU (2-3x), but it performed the second fitting on the MiniGoogleNet much faster (a couple minutes per epoch vs a couple hours per epoch).  
+
+Note 2: I originally tried using tfds to load this data and use tensorflow dataset objects to do this project, however tensorflow datasets don't play nicely with keras preprocessing modules. Datasets are lazy loaded so all preprocessing on datasets must be done through mapping functions and not on the data directly. These mapping functions must act on tensors natively. However Keras preprocessing modules are unable to be used as mapping functions because they only work on numpy arrays.
 
 ## Import libraries and data
 
@@ -449,13 +451,5 @@ In orange we see the training performance for the shallownet and in normal blue 
 
 
 
-<iframe id="tensorboard-frame-88b67375696380e7" width="100%" height="800" frameborder="0">
-</iframe>
-<script>
-  (function() {
-    const frame = document.getElementById("tensorboard-frame-88b67375696380e7");
-    const url = new URL("/", window.location);
-    url.port = 6006;
-    frame.src = url;
-  })();
-</script>
+![png](/assets/imgclassifiertf2/screenshot1.png)
+![png](/assets/imgclassifiertf2/screenshot2.png)

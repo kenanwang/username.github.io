@@ -56,4 +56,4 @@ Some management recommendations from the above essay:
 
 [*TopGrading*](https://www.topgrading.com/) by Bradford Smart the book isn't well reviewed but all you need is the interviewing guide. I’ve used a stripped down version of the CIDS interview to both make and attract top hires.  
 
-[Operating startups](/2019/04/25/startup-operations-primer.html) often has similar challenges. I've dealt with many of those changes before and delineated general workable solutions. I've also put them into practice:
+[Operating startups](/2019/04/25/startup-operations-primer.html) often has similar challenges. After finding a product people want you need to be able to create necessary process, know what to measure, and manage your money.
