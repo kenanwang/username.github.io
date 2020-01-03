@@ -9,7 +9,7 @@ Product management produces good decisions about products. Good decisions don't 
 
 [Product Management primer](/2019/04/25/product-management-primer.html) by me describing in more detail how to make better decisions, with an example from my time at the Wikimedia Foundation.
 
-#### Writing
+### Writing
 The one tool that has historically taught people to remember, communicate, learn, and orient better is writing. Thus learning to write is highly relevant to product management, which is itself often compared to being an editor. Here are some great resources on learning to write:
 
 [*The Sense of Style*](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century) by Steven Pinker, far superior to the standard book on style Strunk and White. He also gives [talks](https://www.youtube.com/watch?v=3ZKTmsgqi0U) about the high level concepts in this book.
@@ -41,9 +41,11 @@ Of course in the long run you need to learn to deal with data acquisition and da
 Once you've learned enough, it will be hard to be able to remember more information without a theoretical framework to contain and structure the conceptual knowledge you're learning. Algorithms, databases, and computing machines are the tools of Machine Learning. Algorithms are where I needed the most theory to keep advancing my knowledge. The best way to increase theoretical knowledge about algorithms is to implement simple versions of them. Again, Jason Brownlee writes well about [this](https://machinelearningmastery.com/how-to-implement-a-machine-learning-algorithm/). On my [portfolio](/portfolio/) you'll find many implemented algorithms.
 
 **Math**  
-To advance your theoretical knowledge you'll eventually need to know some math. The [Deep Learning Book] (http://www.deeplearningbook.org/) has the best material on this that I've seen, the book is clearly written and embedded intelligently into theory and application, so it's not just math for math's sake. Thanks to [i am trask](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) for the recommendation (and his excellent [6 week deep learning curriculum](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) adapted from [Siraj Raval](https://www.youtube.com/watch?v=_qjNH1rDLm0&feature=youtu.be)). If you understand the concepts in Part 1 of the Deep Learning Book you'll have a good mathematical framework for understanding the algorithm speak in ML. If you get stuck on any of the linear algebra [3blue1brown](https://www.3blue1brown.com/) is an excellent place to start, along with any necessary reinforcement from [Khan Academy](https://www.khanacademy.org/math/linear-algebra), and Gilbert Strang's [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/).
+To advance your theoretical knowledge you'll eventually need to know some math. The [Deep Learning Book](http://www.deeplearningbook.org/) has the best material on this that I've seen, the book is clearly written and embedded intelligently into theory and application, so it's not just math for math's sake. Thanks to [i am trask](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) for the recommendation (and his excellent [6 week deep learning curriculum](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) adapted from [Siraj Raval](https://www.youtube.com/watch?v=_qjNH1rDLm0&feature=youtu.be)). If you understand the concepts in Part 1 of the Deep Learning Book you'll have a good mathematical framework for understanding the algorithm speak in ML. If you get stuck on any of the linear algebra [3blue1brown](https://www.3blue1brown.com/) is an excellent place to start, along with any necessary reinforcement from [Khan Academy](https://www.khanacademy.org/math/linear-algebra), and Gilbert Strang's [MIT Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/).
 
 ## Entrepreneurship
+
+[Operating startups](/2019/04/25/startup-operations-primer.html) often has similar challenges. After finding a product people want you need to be able to create necessary process, know what to measure, and manage your money.
 
 Operating companies has forced me to think about what a company is. Thinking about what a company is helps you run companies better. I wrote an essay summarizing some conclusions I've drawn:
 [What a company is](/2019/04/25/what-a-company-is.html)
@@ -55,5 +57,3 @@ Some management recommendations from the above essay:
 [*High Output Management*](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew Grove. No book better breaks down what it is to control the output of a company. He defines management in the most basic manner: to first increase the product of your team, and second to increase the productivity of the teams connected to your team.
 
 [*TopGrading*](https://www.topgrading.com/) by Bradford Smart the book isn't well reviewed but all you need is the interviewing guide. I’ve used a stripped down version of the CIDS interview to both make and attract top hires.  
-
-[Operating startups](/2019/04/25/startup-operations-primer.html) often has similar challenges. After finding a product people want you need to be able to create necessary process, know what to measure, and manage your money.

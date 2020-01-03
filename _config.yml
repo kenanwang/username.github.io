@@ -19,23 +19,32 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kenan Wang
+tagline: portfolio and essays
 email: kenanwang1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     ML projects with an intended focus on NLP. Essays to think better and entertain. Portfolio for product mgmt + startup + ML and mobile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+show_excerpts: true
+
+twitter:
+    card: summary
+    username: kenanwang
+minima:
+  #skin: solarized-dark
+  social_links:
+    twitter: kenanwang
+    github: kenanwang
+    linkedin: kenanwang
 google_analytics: UA-155275172-1
-twitter_username: kenanwang
-github_username:  kenanwang
-linkedin_username: kenanwang
 
 # Build settings
 theme: minima
+
 plugins:
-  - jekyll-feed
-show_excerpts: true
-minima:
-  skin: sunrise
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

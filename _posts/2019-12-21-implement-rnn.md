@@ -2,9 +2,10 @@
 layout: post
 title: Implementing Recurrent Neural Network
 categories: [Implementing Algorithms]
-tags: 
+tags:
 ---
 This is an implementation of a basic RNN (not bi-directional, not an LSTM) from scratch (using only numpy). This program will do character level text prediction.
+![rnn](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Recurrent_neural_network_unfold.svg/800px-Recurrent_neural_network_unfold.svg.png){: width="100%" style="margin:20px 0px 10px 0px"}
 
 Thanks to Siraj Raval for the walkthrough [here](https://www.youtube.com/watch?v=BwmddtPFWtA&t=4s) that was immensely helpful.
 

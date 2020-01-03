@@ -4,10 +4,8 @@ title: Movie Recommender
 categories: [Processed Data]
 tags:
 ---
-
-![image.png](https://images.unsplash.com/photo-1512070679279-8988d32161be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=378&q=80)
-
-This project uses item based collaborative filtering to make movie recommendations. Because this project was unique I implemented cross-validation and hyperparameter tuning from scratch, and defined a project specific cost function.
+This project uses item based collaborative filtering to make movie recommendations. Because this project was unique I implemented cross-validation and hyperparameter tuning from scratch, and defined project specific metrics.
+![movies](https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
 
 I'll use a fairly simple correlation function to model item similarity based on similar ratings in a movie databased. The basic implementation isn't too complicated but I'll also tune the models against three metrics:
 1. A cross validated score for the model's ability to predict how a user will rate movies

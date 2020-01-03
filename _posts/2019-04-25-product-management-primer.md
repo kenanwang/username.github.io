@@ -4,10 +4,8 @@ title: Product Management Primer
 categories: [Product Management]
 tags: [April '19]
 ---
-
-![image.png](https://images.unsplash.com/photo-1517373116369-9bdb8cdc9f62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
-
 Companies must make decisions about what to build in their products and what not to build. What allows for good decisions? Memory, communication, learning feedback, and direction. When a team and a product are small enough the team implicitly and organically remembers all the relevant experiences, speaks the same language, hears the same feedback, and moves in the same direction. But when either the team or the product grow past a certain stage memory has to be recorded to be shared, language must be pruned to be useful, feedback must be sought and delivered, direction has to be discussed.
+![decisions](https://images.unsplash.com/photo-1517373116369-9bdb8cdc9f62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
 
 Product management delivers decisions. But the day to day task of a product manager consists of delineating disparate knowledge and implicit logic that is distributed across a team or outside the team with the customer. What you want is a framework for making decisions that 1) allows you to make decisions, 2) allows relevant people to contribute to decisions, 3) makes all relevant people better at making decisions.
 

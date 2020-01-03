@@ -4,11 +4,9 @@ title: Enron Anomaly Detection using Neural Network Analysis
 categories: [End to End Projects]
 tags:
 ---
-![image.png](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNkSJCq7BVSo/v0/1200x-1.jpg)
+In this project I am replicating analysis from a research paper found below. This project looks at the activity of a social network as activity in a neural network. Then it attempts to look at "memories" inside of that network and treat the most prominent memories in that network as anomalies in the activity of that social network.
+![image.png](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNkSJCq7BVSo/v0/1200x-1.jpg){: width="100%" style="margin:20px 0px 0px 0px"}
 Photographer: James Nielsen/Getty Images
-
-
-In this project I am replicating analysis from a research paper found below. This project looks at the activity of a social network as activity in a neural network. Then it attempts to look at "memories" inside of that network and treat the most prominent memories in that network as anomalies in the activity of that social network.  
 
 Precisely, the project maps social networks as a Hopfield memory network. I feed the Hopfield memory network activity that is reasonably higher than average. I use a Hebbian learning rule to train the memory network. The Hebbian rule "remembers" nodes that fire together.  Thus, the memory network algorithm takes the input data of individuals who are displaying elevated activity, and extracts groups of people all displaying elevated activity together. These groups of elevated activity are thought to be a good signal of anomalous events (better than chasing individual instances of elevated activity).  
 

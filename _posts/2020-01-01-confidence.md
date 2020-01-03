@@ -4,14 +4,13 @@ title: Confidence
 categories:
 tags: [January '20]
 ---
-
-![image.png](https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=767&q=80)
-
 Basketball taught me what confidence is. In 2018 I wrote for a living. This meant I sat a lot, thinking. Two activities got me out of my chair and out of my head: basketball and cooking.
+![basketball](https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=767&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
+
 
 As a goal for basketball, I wanted to get better at shooting. Among the things I learned from practicing my shot was the definition of confidence. When you're learning to shoot, one of the things you're told to the point of cliche is "shoot with confidence." Bradley Beal one of the best shooters in the NBA says that shooting is [80% confidence and 20% mechanics](https://youtu.be/sIZ-kUD2CDc?t=79).
 
-When I heard people talk about confidence it always felt vague. Then, while watching Steph Curry talk about shooting he gave an instruction to "imagine the ball going in when you shoot it." Although the instruction felt a bit like a sports cliche, it was also specific. In the following few days I tried it on the court.
+When I heard people talk about confidence it always felt vague. Then, while watching Steph Curry talk about shooting he gave an instruction to "imagine the ball going in when you shoot it." Although the instruction felt handwavy, it was specific. In the following few days I tried it on the court.
 
 The instruction was harder than it initially seemed. If I was going through the motions while on the court it was easy to drift mentally. If I was practicing, it was easy to want to focus on whatever it was that I wanted to practice (starting low, finishing high, jumping with control). If I was nervous about making a certain kind of mistake my mind would want to imagine how I might miss it. If I had missed the last shot, it was easy to want to replay that. If I was playing in a game it was easy to want to focus on my opponent and not on the hoop.
 

@@ -4,9 +4,8 @@ title: What a company is
 categories: [Startup Operations]
 tags: [April '19]
 ---
-![image.png](https://images.unsplash.com/photo-1541265313101-7043fb302244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
-
 A company has various levels of control: hypothesis, strategy, management, activity. Hypothesis forms strategy, strategy directs management, management molds activity, good activity creates good companies.
+![existential](https://images.unsplash.com/photo-1541265313101-7043fb302244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
 
 **Hypothesis**  
 At the heart of all good companies is a hypothesis about why anyone should invest themselves into that company e.g. Coke’s hypothesis says “Coke is the best Cola.” Pepsi’s hypothesis says “Some people prefer Pepsi.” Any threat to this hypothesis, is an existential crisis for the company (Coke changed their recipe briefly). Your business also has a hypothesis at its heart. The hypothesis explains why people should spend your limited time and energy on this endeavor: you, your customer, your employees, your investors.

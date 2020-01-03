@@ -4,7 +4,6 @@ title: Case Study Lead Generation
 categories: [Startup Operations]
 tags:
 ---
-![image.png](https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 **Need**  
 Wellness company in New York that sold personal growth courses. This office was one of the more successful offices but their revenue seemed to come in waves. The problem was that the sales team lacked discipline around lead generation. When leads were plenty the team focused on closing. When leads dried up they refocused efforts into lead generation. Lead generation only got attention when it was a “problem”.

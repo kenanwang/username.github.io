@@ -4,10 +4,8 @@ title: Neural Model for Generating Beatles Lyrics
 categories: [End to End Projects]
 tags:
 ---
-
-![image.png](https://www.dw.com/image/39219505_303.jpg)
-
 This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I'm going to try The Beatles). The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
+![beatles](https://www.dw.com/image/39219505_303.jpg){: width="100%" style="margin:20px 0px 10px 0px"}
 
 The model will have two layers of LSTMs with 64 hidden nodes each, and we will try generating text after various levels of training. Additionally, this project contains data preparation, model creation, and analysis of the algorithms.
 

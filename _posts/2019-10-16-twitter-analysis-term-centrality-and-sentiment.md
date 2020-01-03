@@ -4,11 +4,10 @@ title: Analyzing Twitter Feeds of Politicians
 categories: [End to End Projects]
 tags:
 ---
-![image.png](https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
-
-I will use the Twitter API to import tweets related to a user or a hashtag. Then looking at the most common terms for a user:  
-1. I will find the most important terms. The way I will do this is by looking at a person's tweet as a network of interrelated words. If the words occur in a tweet together I'll consider them interrelated. Then I'll use mathematical analysis of this network to tell me which words are the most important. Mathematically this kind of analysis on networks is done by calculating Centrality.  
-2. I will perform Sentiment Analysis on the terms, looking for what they speak positively or negatively about.  
+I will use the Twitter API to import tweets related to a user or a hashtag. Then looking at the most common terms for a user I will:  
+1- Find the most important terms. The way I will do this is by looking at a person's tweet as a network of interrelated words. If the words occur in a tweet together I'll consider them interrelated. Then I'll use mathematical analysis of this network to tell me which words are the most important. Mathematically this kind of analysis on networks is done by calculating Centrality.  
+2- Perform Sentiment Analysis on the terms, looking for what they speak positively or negatively about.  
+![statehouse](https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
 
 Because more information is contained in phrases than individual words I'll perform the analyses on two word phrases, called bigrams, not individual words. I will perform Sentiment Analysis by looking for positive and negative words identified in this paper:
 

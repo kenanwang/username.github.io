@@ -4,9 +4,8 @@ title: IMDB 5000 Revenue Regression
 categories: [End to End Projects]
 tags:
 ---
-![image.png](https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80)
-
 This project applies Machine Learning to an IMDB database of 5000 movies. The goal is to predict the revenue of movies based on some metadata that has been recorded for the movies including: number of ratings, IMDB ratings, social media stats, the director, the genre. Using this data, ensemble decision trees were able to produce reasonable results, predicting movie revenue to within $24M, but short of the win condition established at the start of the project.
+![movie popcorn](https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
 
 **Win condition:** I will attempt to predict revenue to within 1/4 of the standard deviation of the profit margin of movies in this corpus. The reason for this win condition is that I believe it would be helpful for movie executives to prevent the worst loses in their portfolio, and also avoid under budgeting strong performers. To define a metric for this project I will estimate profit margin for the movies. This will be done assuming that the total budget for a movie can be estimated by doubling the production budget of that movie<sup>1</sup>. Using this the STD of profit margin was estimated at 68,779,390; so the won condition is to predict movies to within 17 M.
 

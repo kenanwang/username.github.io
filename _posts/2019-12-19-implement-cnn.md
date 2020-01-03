@@ -5,6 +5,7 @@ categories: [Implementing Algorithms]
 tags:
 ---
 This notebook is an implementation of a convolutional neural network with forward and back propogation using no machine learning libraries. I will implement one convolution layer, one activation layer, one pooling layer, one fully connected layer producing logits, and then a softmax.
+![cnn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Convolutional_Neural_Network_NeuralNetworkFilter.gif/800px-Convolutional_Neural_Network_NeuralNetworkFilter.gif){: width="100%" style="margin:20px 0px 10px 0px"}
 
 Data from mnist, thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges. Using [mnist](https://github.com/datapythonista/mnist) python module to simplify data processing.
 

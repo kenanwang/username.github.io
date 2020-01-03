@@ -4,9 +4,24 @@ title: Image Classifiers with Tensorflow 2.0
 categories: [Processed Data]
 tags:
 ---
-This project explores Tensorflow 2.0 using Keras to build the an image classifiers in three different ways.
+This project explores Tensorflow 2.0 using Keras to build image classifiers in two different ways.
+![googlenet](/assets/CIFAR10dataset.png){: width="100%" style="margin:20px 0px 0px 0px"}
+Sample images from: CIFAR-10 dataset
 
 Recently when Tensorflow 2.0 was released, a number of changes occurred including the integration of Keras as the official highlevel API for Tensorflow. Keras allows models to be defined in three ways: sequentially, functionally, and through subclassing. This project will build the three image classifiers using these two methods: sequential, and functional. Thanks to [pyimagesearch](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/) for the guide on how to do this.
+
+The first model will be a simple shallow CNN. The second model will be a simplified version of the GoogleNet (a much more complex model that justifies the use of the functional model for defining models):
+@misc{szegedy2014going,
+    title={Going Deeper with Convolutions},  
+    author={Christian Szegedy and Wei Liu and Yangqing Jia and Pierre Sermanet and Scott Reed and Dragomir Anguelov and Dumitru Erhan and Vincent Vanhoucke and Andrew Rabinovich},  
+    year={2014},  
+    eprint={1409.4842},  
+    archivePrefix={arXiv},  
+    primaryClass={cs.CV}  
+}
+
+They will be trained and tested against the CIFAR 10 database:
+Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
 
 I will also explore how to export data to Tensorboard using Tensorflow 2.0 which has moved away from using sessions.
 
