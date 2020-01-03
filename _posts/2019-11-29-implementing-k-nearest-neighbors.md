@@ -6,7 +6,7 @@ tags:
 ---
 
 This is an implementation of k_Nearest neighbors using only the most basic python libraries. This algorithm takes make predictions by looking at a set of data points that is most similar, called neighbors, and looking at a number of them (k is the variable in the algorithm that specifies the number of neighbors we will look at).
-![k-NN](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/1000px-KnnClassification.svg.png){: width="100%" object-fit="contain" style="margin:20px 0px 10px 0px"}
+![k-NN](/assets/implementknn/knn.png){: width="100%" object-fit="contain" style="margin:20px 0px 10px 0px"}
 
 k-Nearest neighbors is a relatively simple algorithm that is supervised (thus attempts to predict a target variable). But k-Nearest neighbors does not require a training period and it is not parameterized, meaning we don't need to define the training features ahead of time.
 
