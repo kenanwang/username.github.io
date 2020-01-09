@@ -3,13 +3,13 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<h1>Summary</h1>
+<h2>Summary</h2>
 
 Former product manager for Wikipedia mobile web and applications (25% of Wikipedia’s 14B pageviews). Recently started teaching myself machine learning with an intended focus on media.  
 
 My background is in startups as a founding member of a mobile technology startup that sold to Blackberry, and as a key member of two other successfully acquired companies in personal development and speech recognition. Most recently helped start a publishing house as manager and editor.
 
-<h1>Product Management (3+ years)</h1>
+<h2>Product Management (3+ years)</h2>
 
 <h3>1 year mobile product manager for the Wikimedia Foundation</h3>  
 * Oversaw most significant growth in the key metric of [active editors](/assets/excerpt_Mobile_Contributions_Quarterly_Review_10-2013.pdf) for Wikipedia in 7 years.  
@@ -23,7 +23,7 @@ My background is in startups as a founding member of a mobile technology startup
 * Developed key product marketing [materials](/assets/Mobile Application Lifecycle Whitepaper.pdf).  
 * Liaised as marketing lead to key clients including Honeywell, [Mitsubishi](/assets/Case-Study-Mitsubishi-120622.pdf), and US DoD.  
 
-<h1>Machine Learning and Mobile</h1>
+<h2>Machine Learning and Mobile</h2>
 
 <h3>Machine Learning</h3>  
 <h4>Education</h4>  
@@ -50,7 +50,7 @@ My background is in startups as a founding member of a mobile technology startup
 * Early founding member for [international mobile startup competition](https://www.prnewswire.co.uk/news-releases/bmic-holds-first-university-mobile-challenge-at-the-gsma-mobile-world-congress-2011-156461255.html).  
 
 
-<h1>Entrepreneurship</h1>
+<h2>Entrepreneurship</h2>
 
 <h3>Three acquired companies</h3>
 1. AppCentral - enterprise app store and security SDK startup [acquired](https://www.prnewswire.com/news-releases/good-technology-signs-agreement-to-acquire-appcentral-inc-172231601.html) by BlackBerry through Good Technologies. I was on the founding team as an operations and then a product lead.

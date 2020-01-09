@@ -2,7 +2,7 @@
 layout: post
 title: Confidence
 categories:
-tags: [January '20]
+tags: [Personal]
 ---
 Basketball taught me what confidence is. In 2018 I wrote for a living. This meant I sat a lot, thinking. Two activities got me out of my chair and out of my head: basketball and cooking.
 ![basketball](https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=767&q=80){: width="100%" style="margin:20px 0px 10px 0px"}

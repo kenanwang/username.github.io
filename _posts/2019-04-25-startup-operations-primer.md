@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Startup Operations Primer
+title: Startup Operations primer
 categories: [Startup Operations]
-tags: [April '19]
+tags: [Business]
 ---
 Getting first customers is commendable; however, having customers and being cash flow positive are two different things. To go from having your first customers to having a solvent business is a complex problem. To resolve that complexity there are three areas that almost any company needs help with: systems, metrics, and financial control.
 ![strategy](https://images.unsplash.com/photo-1457694716743-eb419114c894?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80){: width="100%" style="margin:20px 0px 10px 0px"}
