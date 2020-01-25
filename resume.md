@@ -12,9 +12,9 @@ My background is in startups as a founding member of a mobile technology startup
 <h2>Product Management (3+ years)</h2>
 
 <h3>1 year mobile product manager for the Wikimedia Foundation</h3>  
-* Oversaw most significant growth in the key metric of [active editors](/assets/excerpt_Mobile_Contributions_Quarterly_Review_10-2013.pdf) for Wikipedia in 7 years.  
-* Mobile user on boarding [walkthroughs](https://blog.wikimedia.org/2013/12/11/wikimedia-foundation-report-november-2013/#Mobile).  
-* Key [design changes](https://designatwikipedia.tumblr.com/post/62048718932/thoughts-on-humanizing-wikipedia-for-the-mobile), including a tablet version of the site.  
+* Oversaw most significant growth in the key metric of [active editors](/product%20management/2020/01/04/working-with-analytics.html) for Wikipedia in 7 years.  
+* Mobile user on boarding [walkthroughs](/product%20management/2020/01/05/onboarding-well.html).  
+* Key [design changes](/product%20management/2020/01/04/working-with-designers.html), including a tablet version of the site.  
 * Porting [WSYIWYG editing](/assets/excerpt_Mobile_Web_&_App_Quarterly_Review_02-2014.pdf) interface to mobile web.   
 * Wikipedia Android and iOS app reboots.  
 
@@ -31,12 +31,12 @@ My background is in startups as a founding member of a mobile technology startup
 * EliteDataScience Machine Learning Accelerator [certification](https://www.credential.net/610t031f) and Kaggle SQL certification.  
 
 <h4>Portfolio</h4>   
-* Four [end to end projects](/organized_portfolio/) demonstrating best in class ML workflows, network analysis, NLP, neural network implementations.  
+* Five [end to end projects](/organized_portfolio/) demonstrating best in class ML workflows, network analysis, NLP, neural network implementations, including a top 12% Kaggle finish.
 * Implemented algorithms: CNN, RNN, OLS linear regression, naive-bayes, k-nearest neighbors, perceptron, simple neural net.  
 
 <h4>Skills</h4>   
-* *Technologies: Python, Numpy, Pandas, Pyplot, Seaborn, Scikit-Learn, NetworkX, NLTK, SQL.*
-* *Techniques: linear regression, logistic regression, regularization, decision tree ensembles, cross validation, sentiment analysis, network analysis, nlp feature engineering, neural networks.*  
+* *Technologies: Python, Numpy, Pandas, Pyplot, Seaborn, Scikit-Learn, SQL, BigQuery, Tensorflow, Keras, AWS EC2, NetworkX, NLTK, Gensim*
+* *Techniques: linear regression, logistic regression, regularization, decision tree ensembles, cross validation, sentiment analysis, network analysis, nlp feature engineering, deep learning, neural networks, word embeddings.*  
 
 <h3>Mobile (5+ years)</h3>  
 <h4>Professional</h4>   
