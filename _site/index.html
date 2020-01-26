@@ -18,7 +18,10 @@
 <script type="application/ld+json">
 {"url":"http://localhost:4000/","headline":"Kenan Wang","name":"Kenan Wang","description":"ML projects with an intended focus on NLP. Essays to think better and entertain. Portfolio for product mgmt + startup + ML and mobile.","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kenan Wang" /></head>
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kenan Wang" /></head>
 <body><header class="site-header">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Kenan Wang</a><nav class="site-nav">
@@ -115,8 +118,68 @@ me presenting at a monthly metrics meeting</p>
           <a class="post-link" href="/end%20to%20end%20projects/2020/01/01/neural-model-for-generating-lyrics.html">
             Neural Model for Generating Beatles Lyrics
           </a>
-        </h3><p>This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I’m going to try The Beatles). The lyrics come from a <a href="https://www.kaggle.com/mousehead/songlyrics">Kaggle dataset</a> of lyrics scraped from lyricsfreak.com.
-<img src="https://www.dw.com/image/39219505_303.jpg" alt="beatles" width="100%" style="margin:20px 0px 10px 0px" /></p>
+        </h3><p><img src="https://www.dw.com/image/39219505_303.jpg" alt="beatles" width="100%" style="margin:0px 0px 10px 0px" /></p>
+<h3 id="web-app-demo-lyrics-generation">Web App Demo: Lyrics Generation</h3>
+<p>Enter text like <code class="language-plaintext highlighter-rouge">sing with me</code> or <code class="language-plaintext highlighter-rouge">how much do I love you</code>, and the app will ‘sing back’ with Beatles-like lyrics.</p>
+<div style="padding-bottom: 0.5cm">
+    <div class="card text-center bg-light">
+        <div class="card-body" style="padding-bottom: 0.2cm">
+            <input class="card-title form-control" type="text" id="input" name="input" placeholder="Type the beginning of a song (i.e. 'sing with me')" />
+            <button class="card-text btn btn-outline-primary" id="btn">Sing Back</button>
+            <div class="spinner" id="spinner" style="display: none">
+              <div class="double-bounce1"></div>
+              <div class="double-bounce2"></div>
+            </div>
+        </div>
+        <div class="card-footer bg-white">
+            <pre class="card-text api-pre" style="padding-bottom: 0.2cm">
+                <div class="item" id="api_input">I will sing back </div>
+                <div class="item" id="api_output">like the Beatles!</div>
+            </pre>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function api_call(input) {
+        // hide button and make the spinner appear
+        $('#btn').toggle();
+        $('#spinner').toggle();
+        $.ajax({
+            url: "http://54.184.82.12/api",
+            method: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(input),
+            success: function( data, textStatus, jQxhr ){
+                // toggle the spinner and button
+                $('#btn').toggle();
+                $('#spinner').toggle();
+                // fill the html for answer
+                $('#api_input').html( data.input );
+                $('#api_output').html( data.output );
+                $("#input").val("");
+            },
+            error: function( jqXhr, textStatus, errorThrown ){
+                $('#btn').toggle();
+                $('#spinner').toggle();
+                $('#api_input').html( "Sorry, the server is taking too long..." );
+                $('#api_output').html( "Try again later!" );
+                console.log( errorThrown );
+            },
+            timeout: 20000 // sets timeout to 20 seconds
+        });
+    }
+    $( document ).ready(function() {
+        // request when clicking on the button
+        $('#btn').click(function() {
+            // get the input data
+            var input = $("#input").val();
+            api_call(input);
+            input = "";
+    });
+    });
+</script>
+
+<p>Note: sometimes the model may get into a repetitive loop, its not perfect :-)</p>
 
 </li><li><span class="post-meta">Jan 1, 2020</span>
         <h3>

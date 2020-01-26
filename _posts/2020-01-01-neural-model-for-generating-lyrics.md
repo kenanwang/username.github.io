@@ -4,33 +4,71 @@ title: Neural Model for Generating Beatles Lyrics
 categories: [End to End Projects]
 tags:
 ---
-This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen author (I'm going to try The Beatles). The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
-![beatles](https://www.dw.com/image/39219505_303.jpg){: width="100%" style="margin:20px 0px 10px 0px"}
+![beatles](https://www.dw.com/image/39219505_303.jpg){: width="100%" style="margin:0px 0px 10px 0px"}
+### Web App Demo: Lyrics Generation
+Enter text like `sing with me` or `how much do I love you`, and the app will 'sing back' with Beatles-like lyrics.
+<div style="padding-bottom: 0.5cm">
+    <div class="card text-center bg-light">
+        <div class="card-body" style="padding-bottom: 0.2cm">
+            <input class="card-title form-control" type="text" id="input" name="input" placeholder="Type the beginning of a song (i.e. 'sing with me')"/>
+            <button class="card-text btn btn-outline-primary" id="btn">Sing Back</button>
+            <div class="spinner" id="spinner" style="display: none">
+              <div class="double-bounce1"></div>
+              <div class="double-bounce2"></div>
+            </div>
+        </div>
+        <div class="card-footer bg-white">
+            <pre class="card-text api-pre" style="padding-bottom: 0.2cm">
+                <div class="item" id="api_input">I will sing back </div>
+                <div class="item" id="api_output">like the Beatles!</div>
+            </pre>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function api_call(input) {
+        // hide button and make the spinner appear
+        $('#btn').toggle();
+        $('#spinner').toggle();
+        $.ajax({
+            url: "http://54.184.82.12/api",
+            method: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(input),
+            success: function( data, textStatus, jQxhr ){
+                // toggle the spinner and button
+                $('#btn').toggle();
+                $('#spinner').toggle();
+                // fill the html for answer
+                $('#api_input').html( data.input );
+                $('#api_output').html( data.output );
+                $("#input").val("");
+            },
+            error: function( jqXhr, textStatus, errorThrown ){
+                $('#btn').toggle();
+                $('#spinner').toggle();
+                $('#api_input').html( "Sorry, the server is taking too long..." );
+                $('#api_output').html( "Try again later!" );
+                console.log( errorThrown );
+            },
+            timeout: 20000 // sets timeout to 20 seconds
+        });
+    }
+    $( document ).ready(function() {
+        // request when clicking on the button
+        $('#btn').click(function() {
+            // get the input data
+            var input = $("#input").val();
+            api_call(input);
+            input = "";
+    });
+    });
+</script>
+Note: sometimes the model may get into a repetitive loop, its not perfect :-)
+
+This project uses LSTMs in Tensorflow Keras to build word based language models for the song lyrics by a chosen artist (I'm going to try The Beatles). The lyrics come from a [Kaggle dataset](https://www.kaggle.com/mousehead/songlyrics) of lyrics scraped from lyricsfreak.com.
 
 The model will have two layers of LSTMs with 64 hidden nodes each, and we will try generating text after various levels of training. Additionally, this project contains data preparation, model creation, and analysis of the algorithms.
-
-After 200 Epochs of training the model produced these reasonably Beatlesesque lyrics:
-
-```
-    hey, hey, sing with me
-
-     i don't wanna kiss you , yeah
-     all i gotta do is act naturally
-
-     well , i'll bet you i'm gonna be a big star
-     might win an oscar you can never tell
-     i went out to go
-     and can look to me to me
-     and i will sing a lullaby .
-
-     golden slumbers ,
-     fill your eyes
-     smiles await you when you rise
-     sleep pretty darling
-     do not cry
-     so i know that you will plainly see
-     the biggest fool that ever
-```
 
 ## Import Libraries
 
