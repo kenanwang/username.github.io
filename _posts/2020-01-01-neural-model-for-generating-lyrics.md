@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Model for Generating Beatles Lyrics
+title: Lyrics Generator with Simple Web App
 categories: [End to End Projects]
 tags:
 ---
