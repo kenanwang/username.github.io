@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Success (working with Analytics)
+title: Understanding Success (with Analytics)
 categories: [Product Management]
 tags: [Business]
 ---
@@ -9,25 +9,25 @@ At the Wikimedia Foundation we had a major success in my department during my ti
 ![active editors](https://stats.wikimedia.org/EN/PlotEditorsEN.png){: width="100%" style="margin: 20px 0px 10px 0px"}
 
 There were two main theories why why the number of active editors was going down:
-1. Between 2004 and 2007 Wikipedia became popular, very popular. Popular enough that vandalism became a thing on Wikipedia, and Wikipedia was important enough that this vandalism had real reach. A journalist named John Seigenthaler had a fake and negative article written about him [for example](https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies#2005). And the incidents only increased in frequency. In response to this Wikipedia editors started to organically create rules and even bureaucracy to stop this kind of abuse of the site. They worked, but they also made it harder to become an editor. Today if you want to edit Wikipedia you need to learn quite a few rules and customs to really feel comfortable on the site.
+1. Between 2004 and 2007 Wikipedia became popular, very popular. Popular enough that vandalism became a thing on Wikipedia, and Wikipedia was important enough that this vandalism had real reach. A journalist named John Seigenthaler had a fake and negative article written about him [for example](https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies#2005). And the incidents only increased in frequency. In response to this Wikipedia editors started to organically create rules and even bureaucracy to stop this kind of abuse of the site. The rules and bureaucracy worked, but they also made it harder to become an editor. Today if you want to edit Wikipedia you need to learn quite a few rules and customs to really feel comfortable on the site.
 
 2. Since 2007 other sites started to pop up, the kinds of sites that might be interesting to the same type of people that are potential editors for Wikipedia: Quora, Stackoverflow, etc. Plus editing Wikipedia had an old school interface.
 
 The idea was that if we could 1. make Wikipedia be more welcoming, both as a community and as a product, and 2. make Wikipedia feel more modern in its interface that we could stop or reverse the decline in active editors.
 
 ### Jump in Active Editors metric
-The biggest success came when we released a new feature: the ability to make edits from mobile devices. For years you could read Wikipedia on your mobile phone, but you couldn't make edits from there. One of the first features released while I was the product manager at for Wikipedia mobile was mobile editing. Within about a week or two of the release Dario, my analytics lead, excitedly showed me this graph:
+I got the chance to oversee a critical success in this metric when we released a new feature: the ability to make edits from mobile devices. For years you could read Wikipedia on your mobile phone, but you couldn't make edits from there. This was among the first features released while I was the product manager at for Wikipedia mobile. Within about a week or two of the release Dario, my analytics lead, excitedly showed me this graph:
 
 ![active editors increase](/assets/mobile_contrib_pg1.jpg)
 
-What you'll see is that from one year to the next there was an increase in the number of active editors of 15%. It's a noticeably jump from the date of the release, marked in red. 15% was by far the biggest increase in the number of active editors since late 2007 when it had started dropping. It was exciting and it was definitely time to figure out why exactly this was happening.
+What you'll see is that from one year to the next there was an increase in the number of active editors of 15%. It's a noticeably jump from the date of the release (marked by the red line). 15% was by far the biggest increase in the number of active editors since late 2007 when it had started dropping. It was exciting and it was definitely time to figure out why exactly this was happening.
 
 ### Quantitative analysis
-Dario was amazing in providing this analysis. The most useful analyses were:
+Dario was amazing in providing quantitative analysis for this launch. The most useful insights came from:
 
-1. looking at mobile vs. desktop cohorts - analyzing different behavior between two groups of people is not always a simple task, partly this is because it is not trivial to separate two groups of users as it is. Fortunately we had a robust analytics framework in place for this feature well before it was released. Because of this we were able to get quantitative feedback about these editors as well as qualitative. We got an analytical sense that some of these editors were not only making little edits here and there, as we might expect on a mobile phone, but that some where making hundreds of edits. More about the qualitative findings below.
+1. looking at mobile vs. desktop cohorts - analyzing different behavior between two groups of people is not always a simple task, partly this is because it is not trivial to separate two groups of users as it is. Fortunately we had a robust analytics framework in place for this feature well before it was released. Because of this we were able to get quantitative feedback about these editors as well as qualitative. Quantitatively we got the sense that some of these editors were not only making little edits here and there, as we might expect on a mobile phone, but that some where making hundreds of edits, some quite long. More about the qualitative findings below.
 
-2. looking at mobile user conversion funnels - seeing how a user behaves before, during, and after converting is also not trivial. Users can behave unpredictably, it's important to catch this data and also make sure that all of the relevant data is recorded to the same person. One of the most interesting things we learned quantitatively about these mobile user conversions was that the overwhelming majority of them, 71% stayed editing only on mobile. This was a very interesting finding, partially because on mobile, the users didn't have much interaction with the rules and bureaucracy, the communication tools weren't as robust as on desktop yet. It seemed to support the theory that rules and bureaucracy were a big part of the problem, especially since the early editing interface on mobile was raw.
+2. looking at mobile user conversion funnels - seeing how a user behaves before, during, and after converting is also not trivial. Users can behave unpredictably, it's important to catch this data and also make sure that all of the relevant data is recorded to the same person. One of the most interesting things we learned quantitatively about these mobile user conversions was that the overwhelming majority of them, 71% stayed editing only on mobile. This was a very interesting finding, partially because on mobile, the users were more insulated from the rules and bureaucracy that we thought might be hurting user retention. Within these mobile only users, despite a raw user interface, we saw a relatively high retention rate. This seemed to support the theory that rules and bureaucracy were a big part of our active editor problem.
 
 ### Qualitative analysis and user interviews
 We learned a lot from the numbers, but looking at the actual edits was equally informative. As I mentioned, I had expected mobile editors to be making small changes here and there, not sweeping changes to articles. I was wrong. Here is an example of a user who basically rewrote an entire article from his phone:
