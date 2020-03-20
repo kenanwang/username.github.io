@@ -5,7 +5,7 @@ categories:
 tags: [Personal]
 ---
 
-I was traveling for a year and a half in Bali, Morocco, and the country of Georgia. Oddly, traveling and staying at home teach and require some of the same principles: self-reliance, managing a life with more freedom, and dealing with more social friction.
+CA was just put into sheltering in place. That means we can only leave the house for essential purposes. For the last year and a half I was traveling in Bali, Morocco, and the country of Georgia. Oddly, I'm finding that traveling and sheltering in place require some of the same principles: self-reliance, managing a life with more freedom, and dealing with more social distance. Here are some battle-tested resources and principles that I used while traveling, which I'm finding are translating well to my sheltering in place.
 
 ## Exercise
 - Strength: with no equipment you can do bodyweight exercises. The sub-reddit for bodyweight fitness is superb. If you want something that requires no extra thought or prep, do the “Move” program. Otherwise to keep up and increase strength, do the “Recommended Routine”, which will require some investment of thought. Here is the place to start:
