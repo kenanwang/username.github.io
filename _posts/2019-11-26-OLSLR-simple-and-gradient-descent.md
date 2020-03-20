@@ -174,7 +174,7 @@ print(f'RMSE: {rmse:.3f} thousands of Kronor')
 
 Following https://learning.oreilly.com/library/view/python-machine-learning/9781783555130/ch10s03.html
 
-This implementation applies to inputs with multiple variables and thus uses linear algebra. We could also perform an implementation that utilized partial derivatives to calculate the Gradient Descent. In this case we will use Stochastic Gradient Descent which is more approximate but also more general.
+This implementation uses linear algebra and applies to inputs with multiple variables. Often Gradient Descent is applied using partial derivatives, in this case we just use the error and the learning rate. 
 
 
 ```python
