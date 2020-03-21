@@ -33,3 +33,5 @@ If you don't have these kind of people in your life, here's what I'll say. If th
 - Humor is good. Right now I have a text thread going with some friends of mine. A lot of what we post are jokes or memes about the quarantine. Few things melt stress and seems to connect us in a way that is underneath words, more effectively and broadly than humor.
 
 ![memers](https://i.kym-cdn.com/photos/images/original/001/786/150/2c5.jpg)
+
+Stay strong friends!
