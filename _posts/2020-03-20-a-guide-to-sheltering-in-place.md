@@ -4,8 +4,8 @@ title: A No-Nonsense Guide To Sheltering in Place, Written from the Perspective 
 categories:
 tags: [Personal]
 ---
-CA was just put into sheltering in place, meaning we can only leave the house for essential purposes. I've noticed, oddly, that the last year and a half of traveling I did before this has prepared me for sheltering in place. Instead of getting a gym membership, for example, I learned to work out at home. Downstairs from my apartment in Tbilisi, Georgia you could find me in the mornings doing pull ups, push ups, and stretches. When it got dusty downstairs from construction next door, I took my workouts indoors.
 ![shelter in place cat](https://lh4.googleusercontent.com/proxy/AYsRQpVUoQMyLe0uXQB8LO8R9VhI3xFCC_6LHWDw_QZE70u3s-vjyhdq8374DzX6aSFs7oYn1QVxmQkO0ShWit4LHvgKm70)
+CA was just put into sheltering in place, meaning we can only leave the house for essential purposes. I've noticed, oddly, that the last year and a half of traveling I did before this has prepared me for sheltering in place. Instead of getting a gym membership, for example, I learned to work out at home. Downstairs from my apartment in Tbilisi, Georgia you could find me in the mornings doing pull ups, push ups, and stretches. When it got dusty downstairs from construction next door, I took my workouts indoors.
 
 ## Exercise
 - Strength: with no equipment you can do bodyweight exercises. Reddit has a community dedicated to bodyweight fitness which is superb. They have a wiki, you can ask questions search for answers, share progress, and they have a number of pre-made programs. If you want something that requires no extra thought or prep, do their “Move” program. Otherwise to keep up and increase strength, do the “Recommended Routine”, which will require some investment of training.
