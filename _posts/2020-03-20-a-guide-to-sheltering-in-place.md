@@ -4,25 +4,20 @@ title: A No-Nonsense Guide To Sheltering in Place, Written from the Perspective 
 categories:
 tags: [Personal]
 ---
-![shelter in place cat](https://lh4.googleusercontent.com/proxy/AYsRQpVUoQMyLe0uXQB8LO8R9VhI3xFCC_6LHWDw_QZE70u3s-vjyhdq8374DzX6aSFs7oYn1QVxmQkO0ShWit4LHvgKm70) 
+![shelter in place cat](https://lh4.googleusercontent.com/proxy/AYsRQpVUoQMyLe0uXQB8LO8R9VhI3xFCC_6LHWDw_QZE70u3s-vjyhdq8374DzX6aSFs7oYn1QVxmQkO0ShWit4LHvgKm70)
 CA was just put into sheltering in place, meaning we can only leave the house for essential purposes. I've noticed, oddly, that the last year and a half of traveling I did before this has prepared me for sheltering in place. Instead of getting a gym membership, for example, I learned to work out at home. Downstairs from my apartment in Tbilisi, Georgia you could find me in the mornings doing pull ups, push ups, and stretches. When it got dusty downstairs from construction next door, I took my workouts indoors.
 
 ## Exercise
-- Strength: with no equipment you can do bodyweight exercises. Reddit has a community dedicated to bodyweight fitness which is superb. They have a wiki, you can ask questions, search for answers, share or see progress, and they have a number of pre-made programs. If you want something that requires no extra thought or prep, do their “Move” program. Otherwise to keep up and increase strength, do the “Recommended Routine”, which will require some investment of training.
-https://www.reddit.com/r/bodyweightfitness/wiki/index
+- Strength: with no equipment you can do bodyweight exercises. Reddit has a [community dedicated to bodyweight fitness](https://www.reddit.com/r/bodyweightfitness/wiki/index) which has superb content. They have a wiki, you can ask questions, search for answers, share or see progress, and they have a number of pre-made programs. If you want something that requires no extra thought or prep, do their “Move” program. Otherwise to keep up and increase strength, do the “Recommended Routine”, which will require some investment of training.
 - Cardio: exercise and fresh air are considered essential activities by CA during our Shelter in Place, thus allowable reasons to leave the house. Just keep 6 ft of distance. Doing 10k steps a day burns 2000 - 3500 calories a week. Regularly walking has been shown to increase life spans. Most smartphones nowadays can track steps. When I was traveling, my partner and I would compete who was walking more. I think the most her and I did was close to 30k during our one day in Brussels. If you can't do 10k do 8k, or 5k.
-- Flexibility: If you really want to increase your flexibility, you need a dedicated stretching program. But Yoga is a good way to get a mix of some static stretching, dynamic stretching, range of motion exercise, and relaxation. Yoga with Adriene provides a superb free at home yoga YouTube channel. Even in Bali, the land of a thousand yoga studios, sometimes my friends and I would stay home for Yoga (like if a rain storm happened). She’s approachable, and her sequences are good:
-https://www.youtube.com/user/yogawithadriene/videos
+- Flexibility: If you really want to increase your flexibility, you need a dedicated stretching program. But Yoga is a good way to get a mix of some static stretching, dynamic stretching, range of motion exercise, and relaxation. [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene/videos) provides a superb free at home yoga YouTube channel. Even in Bali, the land of a thousand yoga studios, sometimes my friends and I would stay home for Yoga (like if a rain storm happened). She’s approachable, and her sequences are good:
 
 ## Cooking
 Really, I learned to cook during the two years in NY when I was writing professionally. I needed something to do that would get me in my body and out of my head. But while in Bali, my friend got food poisoning a couple times and was nervous about eating, so I started cooking for her.
 Cooking while traveling is much easier if you know, not just a few recipes but some principles of how to cook. Same thing seems to be holding true now, when the shelves don't always have exactly what you want. Following that principle, here are some resources in decreasing cost:
-- Thomas Keller’s Masterclass teaches you how to cook. Not just recipes. He’s a legend for a reason - meticulous, intelligent, quietly passionate.
-https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques/
-- Salt, Fat, Acid, Heat. Teaches you how to think about cooking. Again not just recipes. The concept is simple - there are four variables every culture uses to transform food - salt, fat, acid, heat. Mastering these four variables is akin to being a good cook. Also, well written, warm, and humorous.
-https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering-ebook/dp/B01HMXV0UQ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
-- The Pro Home Cook’s online videos are approachable, practical, and joyful. Also, free.
-https://www.prohomecooks.com/
+- [Thomas Keller’s Masterclass](https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques/) teaches you how to cook. Not just recipes. He’s a legend for a reason - meticulous, intelligent, quietly passionate.
+- [Salt, Fat, Acid, Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering-ebook/dp/B01HMXV0UQ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) teaches you how to think about cooking. Again not just recipes. The concept is simple - there are four variables every culture uses to transform food - salt, fat, acid, heat. Mastering these four variables is akin to being a good cook. Also, well written, warm, and humorous.
+- The [Pro Home Cook](https://www.prohomecooks.com/)’s online videos are approachable, practical, and joyful. Also, free.
 
 ## Work
 While traveling much of my work in Bali and Morocco was remote. In Georgia I was doing consulting, which was all remote. Here is some advice, which might be counter to what you would like:
