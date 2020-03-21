@@ -4,7 +4,7 @@ title: A No-Nonsense Guide To Sheltering in Place, Written from the Perspective 
 categories:
 tags: [Personal]
 ---
-![shelter in place cat](https://lh4.googleusercontent.com/proxy/AYsRQpVUoQMyLe0uXQB8LO8R9VhI3xFCC_6LHWDw_QZE70u3s-vjyhdq8374DzX6aSFs7oYn1QVxmQkO0ShWit4LHvgKm70){: width="50%" style="margin:0px 0px 0px 10px"}
+![shelter in place cat](https://lh4.googleusercontent.com/proxy/AYsRQpVUoQMyLe0uXQB8LO8R9VhI3xFCC_6LHWDw_QZE70u3s-vjyhdq8374DzX6aSFs7oYn1QVxmQkO0ShWit4LHvgKm70){: width="50%" style="margin:0px 200px 20px 200px"}
 CA was just put into sheltering in place, meaning we can only leave the house for essential purposes. I've noticed, oddly, that the last year and a half of traveling I did before this has prepared me for sheltering in place. Instead of getting a gym membership, for example, I learned to work out at home. Downstairs from my apartment in Tbilisi, Georgia you could find me in the mornings doing pull ups, push ups, and stretches. When it got dusty downstairs from construction that started up next door, I took my workouts inside.
 
 ## Exercise
