@@ -21,4 +21,4 @@ good ideas can change the world whether through research, products, books, or co
 
 **Design:** launched the first tablet interface for Wikipedia
 
-[PDF of Resume](\assets\Kenan_Wang_resume.pdf)
+![PDF of Resume](/assets/Kenan_Wang_resume.pdf)
