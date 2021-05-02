@@ -4,7 +4,7 @@ title: Product Analysis, Personalization Opportunities for Crunchbase
 categories: [Product Management]
 tags: [Business]
 ---
-![crunchbase logo](https://download.logo.wine/logo/Crunchbase/Crunchbase-Logo.wine.png){: width='100%' style='margin: 20px 0px 0px 0px'}
+![crunchbase logo](https://talkingbiznews.com/wp-content/uploads/2020/02/Crunchbase.jpg){: width='100%' style='margin: 20px 0px 0px 0px'}
 Personalization is a major product opportunity for many businesses today. This is a product analysis of personalization opportunities for Crunchbase following this format:
 * Company opportunity
 * User personas
