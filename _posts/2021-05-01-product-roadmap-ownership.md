@@ -4,7 +4,7 @@ title: Being in the Driver's Seat of the Product Roadmap
 categories: [Product Management]
 tags: [Business]
 ---
-![driving](https://images.unsplash.com/photo-1485463611174-f302f6a5c1c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80){: width="50%" style="margin:0px 200px 20px 200px"}
+![driving](https://images.unsplash.com/photo-1485463611174-f302f6a5c1c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80){: width='100%' style='margin: 20px 0px 0px 0px'}
 One of the key attributes for a Product Manager is the ability to take the driver's seat in developing a product roadmap.
 
 These are [slides and notes](https://meta.wikimedia.org/wiki/Wikimedia_monthly_activities_meetings/Quarterly_reviews/Mobile_contributions/October_2013) from a presentation I did as PM for Wikipedia Mobile (note: fall was Q2 on our accounting calendar).
