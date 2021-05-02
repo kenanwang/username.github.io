@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being in the Driver's Seat of the Product Roadmap
-categories:[Product Management]
+categories: [Product Management]
 tags: [Business]
 ---
 ![driving](https://unsplash.com/photos/MyjVReZ5GLQ){: width="50%" style="margin:0px 200px 20px 200px"}

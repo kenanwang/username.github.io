@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Analysis: Personalization Opportunities for Crunchbase
-categories:[Product Management]
+categories: [Product Management]
 tags: [Business]
 ---
 ![crunchbase logo](https://download.logo.wine/logo/Crunchbase/Crunchbase-Logo.wine.png){: width="50%" style="margin:0px 200px 20px 200px"}
