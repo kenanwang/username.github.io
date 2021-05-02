@@ -5,13 +5,7 @@ categories: [Product Management]
 tags: [Business]
 ---
 ![driving](https://images.unsplash.com/photo-1485463611174-f302f6a5c1c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80){: width='100%' style='margin: 20px 0px 0px 0px'}
-One of the key attributes for a Product Manager is the ability to take the driver's seat in developing a product roadmap.
-
-These are [slides and notes](https://meta.wikimedia.org/wiki/Wikimedia_monthly_activities_meetings/Quarterly_reviews/Mobile_contributions/October_2013) from a presentation I did as PM for Wikipedia Mobile (note: fall was Q2 on our accounting calendar).
-
-(Admittedly this is from October 2013, so a bit old now, but these materials aren't protected by NDA since the Wikimedia Foundation is a non-profit, so it makes showing my work easy)
-
-In this presentation I shared analysis and set a year-long roadmap (through the end of 2013 and through 2014) for my team that focused on three items:
+One of the key attributes for a Product Manager is the ability to take the driver's seat in developing a product roadmap. These are [slides and notes](https://meta.wikimedia.org/wiki/Wikimedia_monthly_activities_meetings/Quarterly_reviews/Mobile_contributions/October_2013) from a presentation I did as PM for Wikipedia Mobile, which are an example of my taking ownership of a product roadmap. (Admittedly this is from October 2013, so a bit old now, but these materials aren't protected by NDA since the Wikimedia Foundation is a non-profit, so it makes showing my work easy). In this presentation I shared analysis and set a year-long roadmap (through the end of 2013 and through 2014) for my team that focused on three items:
 
 1. **Acquiring users**, the release of editing features was a much more successful account creation vehicle than originally anticipated (**slide 34**). As a result, I focused our team on making improvements to our acquisition funnel: editing guides to get people past their first edit, getting started guides to get people past their first 5 edits (worked across teams with another PM and eng team to accomplish this), etc. A more in-depth analysis of this is also on [this other presentation, slide 28](https://upload.wikimedia.org/wikipedia/commons/f/f0/Mobile_Web_%26_App_Quarterly_Review_02-2014.pdf).
 
