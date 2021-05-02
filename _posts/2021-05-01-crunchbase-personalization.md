@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product Analysis: Personalization Opportunities for Crunchbase
+title: Product Analysis, Personalization Opportunities for Crunchbase
 categories: [Product Management]
 tags: [Business]
 ---
@@ -11,7 +11,7 @@ Personalization is a major product opportunity for many businesses today. This i
 * Salesperson pain points
 * Potential Solutions for “Finding Prospects”
 
-It starts broad and narrows down toward recommending personalization based solutions for the pain points in one step of the user journey for one of the user personas.
+It starts broad (at the level of company strategy) and narrows down toward recommending personalization based solutions for the pain points in one step of the user journey for one of the user personas.
 
 ## Company Opportunity
 Crunchbase is the \#1 database of companies. However, data is a commodity business. By moving vertically toward owning the user, Crunchbase can capture more loyalty and deliver more value by helping users process that data. User personas allow Crunchbase to customize data to fit use cases. As users demonstrate interest and accumulate successes, Crunchbase also has the opportunity to personalize data for users.
