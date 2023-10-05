@@ -16,6 +16,7 @@ If you follow one product person on twitter make it [Shreyas Doshi](https://twit
 A lot of product training is probably over priced garbage, [Jeff Patton's course](https://jpattonassociates.com/) is not, it's excellent.
 
 ### Writing
+Good writing is indistinguishable from good thinking.
 
 [*The Sense of Style*](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century) defines style and how to develop a classical style. If you have less time, watch the [talk](https://www.youtube.com/watch?v=3ZKTmsgqi0U).
 
@@ -25,15 +26,19 @@ Paul Graham is sharp about many things including [writing](http://www.paulgraham
 
 Jordan Peterson's guide to [writing essays](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx) explains why and how to write essays.
 
+David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
+
 ## Machine Learning
 
 Learning the field of Machine Learning has been rewarding and challenging. Here are some useful resources:
 
-https://learnpythonthehardway.org/ follows the philosophy that the hard way is the easy way. They're right.
+["Learn python the hard way"](https://learnpythonthehardway.org) follows the philosophy that the hard way is the easy way. They're right.
 
-https://elitedatascience.com/primer provides a broad framework for data science.
+[A primer](https://elitedatascience.com/primer) that provides a broad framework for data science.
 
-https://machinelearningmastery.com/ teaches machine learning with a similar philosophy to learning python the hard way. 
+[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to learning python the hard way. 
+
+Much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
 
 You'll probably need access to some data:
 1. https://www.kaggle.com/datasets

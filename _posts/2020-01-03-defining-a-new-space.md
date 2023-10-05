@@ -5,12 +5,12 @@ categories: [Product Management]
 tags: [Business]
 ---
 
-My first startup, AppCentral, stumbled upon an issue that no one had solved at the time. Companies wanted to use mobile apps to improve their businesses but apps were new to them. The didn't know how to distribute, secure, and administer their applications, in short they didn't know how to manage their applications.
-![business headache](https://images.unsplash.com/photo-1552345387-07e60f8985fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80){: width="100%" style="margin: 20px 0px 10px 0px"}
+My first startup, AppCentral, stumbled upon an issue that no one had solved at the time. Companies wanted to use mobile apps to improve their businesses but they didn't know how to: distribute, secure, and administer their applications. In short, they didn't know how to manage their applications.
+![business headache](https://images.unsplash.com/photo-1618498390344-445c804f2ac5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80){: width="100%" style="margin: 20px 0px 10px 0px"}
 
 We had been building products to help people with these different problems, one at a time. Eventually we realized that these problems weren't isolated problems, and it wasn't going to be just one or two companies that had them. We started to call the suite of tools that we had built [Mobile Application Management](https://en.wikipedia.org/wiki/Mobile_application_management), and realized we had a [business worth pursuing](https://www.businesswire.com/news/home/20110426005681/en/AppCentral-Delivers-Multi-Platform-Enterprise-App-Store-Solution).
 
-Discovering a new space like this meant we had to explain both the problems and the solutions all the time - to people we wanted to sell to, to journalists, to investors, and to ourselves. Why to ourselves? If the company doesn't grok what it's building, what it's not building, and why; it will produce bad products. This is the heart of product management.
+Discovering a new space like this meant we had to explain both the problems and the solutions all the time - to potential customers, to journalists, to investors, and to ourselves. Why to ourselves? If the company doesn't grok what it's building, what it's not building, and why; it will produce bad products. This is the heart of product management.
 
 This often meant creating metaphors or maps for people, making connections to markets we already understood, and inventing new language. How did this play out with AppCentral?
 
