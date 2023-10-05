@@ -13,7 +13,7 @@ From the perspective of an investor-founder, Michael Seibel breaks down [buildin
 
 If you follow one product person on twitter make it [Shreyas Doshi](https://twitter.com/shreyas).
 
-A lot of product training is probably over priced garbage, [Jeff Patton's course](https://jpattonassociates.com/) is not, it's excellent.
+A lot of product training is probably over-priced garbage, [Jeff Patton's course](https://jpattonassociates.com/) is not, it's excellent.
 
 ### Writing
 Good writing is indistinguishable from good thinking.
