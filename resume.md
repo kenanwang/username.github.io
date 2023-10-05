@@ -15,4 +15,5 @@ I chase hard problems and keep asking "why".
 
 **Leader with results:** at Bearing reduced customer complaints by improving product health, at Wikipedia increased usage on mobile
 
-[Linkedin](www.linkedin.com/in/kenanwang)
+
+[See my Linkedin here.](www.linkedin.com/in/kenanwang)
