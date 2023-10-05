@@ -20,7 +20,6 @@
 
 title: Kenan Wang
 tagline: portfolio and essays
-email: kenanwang1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Product and machine learning portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,8 +29,6 @@ show_excerpts: true
 
 minima:
   #skin: solarized-dark
-  social_links:
-    linkedin: kenanwang
 google_analytics: UA-155275172-1
 
 # Build settings
