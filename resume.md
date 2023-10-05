@@ -4,21 +4,15 @@ title: Resume
 permalink: /resume/
 ---
 
-### I Believe…
-good ideas can change the world whether through research, products, books, or conferences.
+### About
+I chase hard problems and keep asking "why".
 
 ### Highlights
 
-**User focus:** performed interviews and analysis to drive onboarding, administration, and humanizing features for mobile Wikipedia
+**User and customer focused:** at Bearing developed product strategy focusing on "jobs-to-be-done", at Wikipedia reworked 2014 roadmap based on quantitative and qualitative usage analysis
 
-**Analysis:** overhauled A/B test review process with 40+ tests / mo
+**Technical:** at Hive Media Group coded a python proof of concept that used reinforcement learning to optimize ad settings
 
-**Agile delivery:** launched a platform upgrade 3+ yrs in the works
+**Leader with results:** at Bearing reduced customer complaints by improving product health, at Wikipedia increased usage on mobile
 
-**Communication:** gave presentations on and wrote white papers for the first enterprise app store in the world
-
-**Tech:** coded PoC, audit tool, and tuning tool for ad optimization ML
-
-**Design:** launched the first tablet interface for Wikipedia
-
-[PDF of Resume](/assets/Kenan_Wang_resume.pdf)
+[Linkedin](www.linkedin.com/in/kenanwang)

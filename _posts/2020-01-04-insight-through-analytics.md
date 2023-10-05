@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Success (with Analytics)
+title: Gaining Insight through Qualitative and Quantitative Analysis
 categories: [Product Management]
 tags: [Business]
 ---

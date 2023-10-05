@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-<p>This portfolio includes work product and writings related to my product management (3+ yrs) and startup (10+ yrs) experience. I also have machine learning projects demonstrating my technical facility, those fall under these categories:</p>
+<p>This portfolio includes writings related to product management. And there are machine learning projects demonstrating my technical facility, broken into these categories:</p>
 <ol>
     <li>End to End projects - implementing an entire data science workflow starting from raw data</li>
     <li>Algorithms - implementing an algorithm like CNN using only basic libraries like numpy</li>
@@ -11,11 +11,14 @@ permalink: /portfolio/
     <li>SQL - queries to answer data questions</li>
 </ol>
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+<ul>
+  {% for category in site.categories %}
+    <li><a name="{{ category | first }}">{{ category | first }}</a>
+      <ul>
+      {% for post in category.last %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
   </ul>
-{% endfor %}
