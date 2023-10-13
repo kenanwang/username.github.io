@@ -32,18 +32,24 @@ Jordan Peterson's guide to [writing essays](https://docs.google.com/viewer?url=h
 
 David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
 
-### Machine Learning
+### Machine Learning and AI
 
 Learning the field of Machine Learning has been rewarding and challenging. Here are some useful resources:
 
-[*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way is the easy way. They're right.
+For the non-technical: [a fun illustration of how random trees work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and the illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
 
-[A primer](https://elitedatascience.com/primer) that provides a broad framework for data science.
+Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way is the easy way. They're right.
 
-[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to learning python the hard way. 
+[A primer](https://elitedatascience.com/primer) that provides a broad framework for how to do data science.
 
-Much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
+[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to learning python the hard way.
 
 You'll probably need access to some data:
 1. https://www.kaggle.com/datasets
 2. https://archive.ics.uci.edu/ 
+
+For more theory [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is a mathematically rigorous introductory textbook.
+
+Andreesen Horowitz is a notable venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/).
+
+Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
