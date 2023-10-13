@@ -48,8 +48,17 @@ You'll probably need access to some data:
 1. https://www.kaggle.com/datasets
 2. https://archive.ics.uci.edu/ 
 
-For more theory [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is a mathematically rigorous introductory textbook.
+For more theory the acclaimed [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is perhaps the go-to mathematically rigorous introductory textbook.
 
-Andreesen Horowitz is a notable venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/).
+Andreesen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/).
 
 Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
+
+### Physics
+My first intellectual love. It teaches you to think and problem solve, but perhaps more importantly to *wonder*.
+
+Kleppner and Kolenkow's [*An Introduction to Mechanics*](https://a.co/d/cyY2QUC) remains the standard by which I measure all other textbooks. I still remember their names almost 20 years later.
+
+Purcell and Morin's [*Electricity and Magnetism*](https://a.co/d/bK8jLsk) isn't far behind. 
+
+Chef Thomas Keller says that finesse is the kind of thing that a great baseball pitcher has - excellence in execution but with *a-little-something-extra*. Feynman's got that in his teaching and you can experience it in his [Lectures on Physics](https://www.feynmanlectures.caltech.edu/).
