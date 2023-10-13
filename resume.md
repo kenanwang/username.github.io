@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-I chase hard problems and keep asking "why".
+I chase hard problems and I keep asking "why".
 
 **User and customer focused:** at Bearing developed product strategy focusing on "jobs-to-be-done", at Wikipedia rewrote roadmap based on quantitative and qualitative usage analysis
 

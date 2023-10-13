@@ -15,7 +15,7 @@ If you follow one product person on twitter make it [Shreyas Doshi](https://twit
 
 A lot of product training is probably over-priced garbage, [Jeff Patton's course](https://jpattonassociates.com/) is not, it's excellent.
 
-Strategic thinking is key to product management, [*Good Strategy, Bad Strategy*](https://a.co/d/fYfWCyJ) is the defining text on business strategy.
+Strategic thinking is key to product management, [*Good Strategy, Bad Strategy*](https://a.co/d/fYfWCyJ) is a defining text on business strategy.
 
 If you are an enterprise product manager it pays to understand how companies ensure productivity, there is no better book on this subject than [*High Output Management*](https://a.co/d/aF67BI5)
 
