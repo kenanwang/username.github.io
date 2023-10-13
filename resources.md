@@ -9,7 +9,7 @@ People often ask what a product manager does. I like Ken Norton's definition: "a
 
 The seminal book in the space has to be Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507).
 
-From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with incredible clarity.
+From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with great clarity.
 
 If you follow one product person on twitter make it [Shreyas Doshi](https://twitter.com/shreyas).
 
