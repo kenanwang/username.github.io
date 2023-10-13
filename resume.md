@@ -12,4 +12,4 @@ Chase hard problems. Keep asking "why".
 
 **Leader who delivers results:** at Bearing reduced customer complaints by improving product health, at Wikipedia increased usage on mobile which was important to turning around the decline of active editors
 
-[See my Linkedin here.](www.linkedin.com/in/kenanwang)
+[See my Linkedin here.](https://www.linkedin.com/in/kenanwang)
