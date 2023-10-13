@@ -42,7 +42,7 @@ Python is probably the coding language you want to learn if you want to get into
 
 [A primer](https://elitedatascience.com/primer) that provides a broad framework for how to do data science.
 
-[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to learning python the hard way.
+[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to *Learn python the hard way*.
 
 You'll probably need access to some data:
 1. https://www.kaggle.com/datasets
