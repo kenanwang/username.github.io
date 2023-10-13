@@ -55,12 +55,12 @@ Andreesen Horowitz is an important venture capital fund that has kept a close ey
 Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
 
 ### Physics (and math)
-My first intellectual love was physics. It teaches you to think and problem solve, but perhaps more importantly to *wonder*.
+My first intellectual love was physics. It teaches you to think and problem solve, but perhaps more importantly to *wonder*. Einstein asked a simple question: "what would it be like to go as fast as light." In the process of pondering this question he discovered that space-time can bend (the idea  behind blackholes and much else) and that mass can be turned into energy (the idea behind nuclear energy). 
 
 Kleppner and Kolenkow's [*An Introduction to Mechanics*](https://a.co/d/cyY2QUC) remains the standard by which I measure all other textbooks. I still remember their names almost 20 years later.
 
 Purcell and Morin's [*Electricity and Magnetism*](https://a.co/d/bK8jLsk) isn't far behind. 
 
-Chef Thomas Keller says that finesse is the kind of thing that a great baseball pitcher has - excellence in execution, but with *a-little-something-extra*. Feynman's got that in his teaching and you can experience it in his [Lectures on Physics](https://www.feynmanlectures.caltech.edu/).
+Chef Thomas Keller says that finesse is the kind of thing that a great baseball pitcher has - excellence in execution, but with *a-little-something-extra*. Feynman's got that in his teaching and you can experience it in his [Lectures on Physics](https://www.feynmanlectures.caltech.edu/). He gives an introduction to classical physics as well as modern physics (the trippy stuff).
 
 [Steven Strogatz](https://a.co/d/0NqbRWz) introduces the lay person to mathematics very well. As do the videos from [3Blue1Brown](https://www.3blue1brown.com/).
