@@ -34,9 +34,9 @@ David Perell translates writing into the 21st century, follow his [twitter](http
 
 ### Machine Learning and AI
 
-Learning the field of Machine Learning has been rewarding and challenging. Here are some useful resources:
+Learning the field of Machine Learning has been rewarding and challenging. It's a powerful technology that is on the minds of many. 
 
-For the non-technical, here is [a fun illustration of how random trees work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and the illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
+For the non-technical, here is [a fun illustration of how random trees work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
 
 Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way is the easy way. They're right.
 
