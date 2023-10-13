@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ### Product Management
-People often ask what a product manager does. I like Ken Norton's definition: "a technical, user-focused team leader working closely with engineers and designers to guide products". His [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
+People often ask "What *is* a product manager?". I like Ken Norton's definition: "a technical, user-focused team leader working closely with engineers and designers to guide products". His [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
 
 The seminal book in the space has to be Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507).
 
