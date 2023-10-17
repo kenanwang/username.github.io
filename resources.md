@@ -17,7 +17,7 @@ A lot of product training is probably over-priced garbage, [Jeff Patton's course
 
 Strategic thinking is key to product management, [*Good Strategy / Bad Strategy*](https://a.co/d/fYfWCyJ) is a defining modern text. Ben Thompson's [Statechery blog and podcast](https://stratechery.com/concepts/) breaks down software strategy clearly and with finesse. 
 
-If you are an enterprise product manager it pays to understand how companies ensure productivity, there is no better book on this than [*High Output Management*](https://a.co/d/aF67BI5).
+If you are an enterprise product manager it pays to understand the principles of how companies ensure productivity, there is no better book on this than [*High Output Management*](https://a.co/d/aF67BI5).
 
 ### Writing
 Good writing is indistinguishable from good thinking.
