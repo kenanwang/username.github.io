@@ -48,7 +48,7 @@ You'll probably need access to some data:
 1. https://www.kaggle.com/datasets
 2. https://archive.ics.uci.edu/ 
 
-For more theory the acclaimed [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is perhaps the go-to for a mathematically rigorous introductory textbook, and it's free.
+For more theory the acclaimed [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is perhaps the go-to for a mathematically rigorous introductory textbook on Deep Learning (of course), and it's free.
 
 Andreesen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/).
 
