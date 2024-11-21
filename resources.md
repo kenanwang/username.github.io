@@ -34,7 +34,7 @@ David Perell translates writing into the 21st century, follow his [twitter](http
 
 ### Machine Learning and AI
 
-AI is a powerful technology that is taking the world by storm. Learning Machine Learning has been challenging and rewarding. 
+AI is a powerful technology that is taking the world by storm. For me, learning Machine Learning has been challenging and rewarding. 
 
 For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
 
