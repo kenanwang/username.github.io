@@ -4,15 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
-Senior Product Manager, B2B AI
+Senior AI/ML Data Product Manager | I help innovative companies launch 0-1 AI products generating multi-$M annual revenue
 
-**Proven ability to deliver features and products** in a variety of contexts such as an angel invested startup, an open sourced top 5 internet property, and an incubator in a state-owned multinational investment firm.
+**Deep expertise in AI product development** (ML, DL, Gen AI). Delivering AI B2B SaaS products ranging from supply chain & shipping to ad tech; paired with hands-on proficiency in data science.
 
-**Formulates enterprise product strategies** that provide focused impact each quarter while managing stakeholders; naturally balancing customer-focus with product-focus, and deep research with gut feel.
+**Product leader on multi-$M annual revenue** generated through AI solutions and cross-functional collaborations on major client engagements, plus measurable impact like reducing customer issues by 5x.
 
-**Effectively collaborates with PhD talent** - AI developer experience (reinforcement learning), Berkeley Math Physics double-major who has scored in the top 12% of a Natural Language Q&A Kaggle competition.
+**Proven skill in 0-1 product launches.** Led extensive market validation projects, collaborated with PhDs to assess technical feasibility, and coded prototypes for new initiatives. Critical contributions to startup exits.
 
-Technical Skills: Jupyter, PyData stack, TF/Keras stack, BERT, SQL, Snowflake
-Tools: Jira, Aha, Airtable, Trello, Pivotal Tracker, Looker, Bugzilla
+Tech: Python, PyData, TensorFlow, Keras, BERT (Kaggle competition top 12%), Gen AI, SQL, Snowflake
 
 [See my Linkedin here.](https://www.linkedin.com/in/kenanwang)
