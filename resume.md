@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-Senior AI/ML Data Product Manager | I help innovative companies launch 0-1 AI products generating multi-$M annual revenue
+Senior AI/ML Data Product Manager; I help innovative companies launch 0-1 AI products generating multi-$M annual revenue
 
 **Deep expertise in AI product development** (ML, DL, Gen AI). Delivering AI B2B SaaS products ranging from supply chain & shipping to ad tech; paired with hands-on proficiency in data science.
 
