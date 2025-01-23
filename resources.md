@@ -28,8 +28,6 @@ Good writing is indistinguishable from good thinking.
 
 Paul Graham is sharp about many things including [writing](http://www.paulgraham.com/writing44.html).
 
-Jordan Peterson's guide to [writing essays](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx) explains why and how to write essays.
-
 David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
 
 ### Machine Learning and AI
